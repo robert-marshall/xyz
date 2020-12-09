@@ -80,5 +80,4 @@ git push origin master
 
 ##### Resources
 - [Generating ed25519 SSH Key](https://robertmarshall.xyz/generating-ed25519-ssh-key)
-- [Setting Up A Git Server](https://robertmarshall.xyz/setting-up-a-git-server)
-- [Pushing To Multiple Git Remotes Simultaneously](https://robertmarshall.xyz/pushing-to-multiple-git-remotes-simultaneously)
+- [Pushing To Multiple Git Remotes Simultaneously](https://robertmarshall.xyz/push-to-multiple-git-remotes-simultaneously/)
