@@ -224,9 +224,9 @@ server {
 <br />
 
 ```
-nginx -t
-
 sudo -H ln -s /etc/nginx/sites-available/searx /etc/nginx/sites-enabled/searx
+
+nginx -t
 
 sudo -H systemctl restart nginx
 sudo -H service uwsgi restart searx
