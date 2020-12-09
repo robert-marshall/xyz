@@ -25,7 +25,7 @@ apt install nginx nginx-common git gitweb fcgiwrap highlight -y
 $EDITOR /etc/nginx/sites-available/gitweb
 ```
 
-<nr />
+<br />
 
 ```
 server {
