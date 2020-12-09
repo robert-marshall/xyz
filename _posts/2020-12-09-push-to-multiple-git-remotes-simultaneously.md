@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Push To Multiple Git Remote Simultaneously"
+title: "Push To Multiple Git Remotes Simultaneously"
 date: 2020-12-09
 tags: [git, ssh]
 ---
