@@ -36,18 +36,18 @@ cd /etc/php/7.4/
 ```
 
 ```
-$EDITOR fpm/php.ini
+nano  fpm/php.ini
 date.timezone = Europe/London
 memory_limit = 512M
 ```
 
 ```
-$EDITOR cli/php.ini
+nano cli/php.ini
 cgi.fix_pathinfo=0
 ```
 
 ```
-$EDITOR fpm/pool.d/www.conf
+nano fpm/pool.d/www.conf
 env[HOSTNAME] = $HOSTNAME
 env[PATH] = /usr/local/bin:/usr/bin:/bin
 env[TMP] = /tmp
@@ -106,7 +106,7 @@ chown -R www-data:www-data /var/www/nextcloud
 
 ```
 cd /etc/nginx/sites-available/
-$EDITOR nextcloud
+nano nextcloud
 ```
 
 ```

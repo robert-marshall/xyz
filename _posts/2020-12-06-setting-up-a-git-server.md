@@ -6,12 +6,12 @@ tags: [ssh, git]
 ---
 
 ##### table of contents
-- [puter](#puter)
+- [computer](#computer)
 - [server](#server)
 - [push](#push)
 - [clone](#clone)
 
-# [puter](#puter)
+# [computer](#computer)
 
 ```
 scp ~/.ssh/id_ed25519.pub root@myawesomesite.com/tmp/

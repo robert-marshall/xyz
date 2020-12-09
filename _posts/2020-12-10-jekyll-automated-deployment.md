@@ -8,7 +8,7 @@ tags: [jekyll, ruby, git, nginx, debian]
 ##### table of contents
 - [server](#server)
 - [nginx](#nginx)
-- [puter](#puter)
+- [computer](#computer)
 
 # [server](#server)
 
@@ -126,7 +126,7 @@ nginx -t
 systemctl restart nginx
 ```
 
-# [puter](#puter)
+# [computer](#computer)
 
 ```
 apt install ruby-full build-essential
