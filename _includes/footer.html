@@ -1,0 +1,18 @@
+<footer class="footer">
+  <small class="footer_copyright">
+    Copyright &copy; {{ site.time | date: "%Y" }} <a href="https://robertmarshall.xyz" rel="noreferrer noopener">Robert MArshall</a>
+  </small>
+</footer>
+
+<script src="/assets/js/main.js" defer="defer"></script>
+
+{%- if page.url == '/archive/' -%}
+  <script src="/assets/js/search.min.js"></script>
+  <script>
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('search-results'),
+      json: '/assets/search.json',
+    });
+  </script>
+{%- endif -%}
