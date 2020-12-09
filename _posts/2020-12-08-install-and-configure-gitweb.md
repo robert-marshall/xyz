@@ -16,7 +16,7 @@ tags: [git, gitweb, fcgi, nginx, debian]
 # [install](#install)
 
 ```
-apt install nginx nginx-common git gitweb fcgiwrap highlight -y
+apt install nginx git gitweb fcgiwrap highlight -y
 ```
 
 # [nginx](#nginx)
