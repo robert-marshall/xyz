@@ -13,16 +13,16 @@ author:
   name: Robert Marshall # author name
   bio: >- # tell to the world
     botched installs and configs <br /> 
-    <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+    <a href="https://srx.robertmarshall.xyz" target="_blank" rel="noopener">srx</a>.
+  username:  # general username
+  github:  # github username
+  twitter:  # twitter username
+  facebook:  # facebook username
+  email:  # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://robertmarshall.xyz" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
