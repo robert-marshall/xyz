@@ -37,7 +37,7 @@ server {
   ssl_client_certificate /etc/nginx/ssl/client.crt;
   ssl_verify_client on;
 
-  server_name myawesomesite.com;
+  server_name git.myawesomesite.com;
 
   location /index.cgi {
     root /usr/share/gitweb/;
