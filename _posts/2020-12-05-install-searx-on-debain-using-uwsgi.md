@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Install Searx On Debain Using UWSGI"
+title: "Install Searx On Debain Using uWSGI"
 date: 2020-12-05
 tags: [searx, uwsgi, nginx, debian]
 ---
