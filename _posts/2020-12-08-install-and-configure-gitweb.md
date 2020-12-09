@@ -63,7 +63,7 @@ ln -s /etc/nginx/sites-available/gitweb /etc/nginx/sites-enabled/gitweb
 
 <br />
 
-````
+```
 nginx -t
 service nginx restart
 ```
