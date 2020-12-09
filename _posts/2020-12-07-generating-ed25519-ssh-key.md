@@ -13,7 +13,7 @@ tags: [ssh]
 # [generating](#generating)
 
 ```
-ssh-keygen -o -a 100 -t ed25519 -f ~/.ssh/id_ed25519.user -C "user@myawesomesite.com"
+ssh-keygen -o -a 100 -t ed25519 -f ~/.ssh/id_ed25519 -C "user@myawesomesite.com"
 ```
 
 # [adding](#adding)
@@ -21,7 +21,7 @@ ssh-keygen -o -a 100 -t ed25519 -f ~/.ssh/id_ed25519.user -C "user@myawesomesite
 ```
 eval "$(ssh-agent -s)"
 
-ssh-add ~/.ssh/id_ed25519.user
+ssh-add ~/.ssh/id_ed25519
 
 ssh-add
 ```
@@ -38,6 +38,6 @@ $EDITOR ~/.ssh/config
 Host awesomesite
   HostName awesomesite.com
   User user
-  IdentityFile ~/.ssh/id_ed25519.user
+  IdentityFile ~/.ssh/id_ed25519
   IdentitiesOnly yes
 ```
