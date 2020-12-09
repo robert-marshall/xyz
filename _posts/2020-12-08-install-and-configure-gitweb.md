@@ -25,7 +25,7 @@ apt install nginx nginx-common git gitweb fcgiwrap highlight -y
 $EDITOR /etc/nginx/sites-available/gitweb
 ```
 
-<br />
+<nr />
 
 ```
 server {
@@ -37,7 +37,7 @@ server {
   ssl_client_certificate /etc/nginx/ssl/client.crt;
   ssl_verify_client on;
 
-  server_name git.myawesomesite.com;
+  server_name myawesomesite.com;
 
   location /index.cgi {
     root /usr/share/gitweb/;
@@ -77,17 +77,23 @@ $EDITOR /etc/gitweb.conf
 <br />
 
 ```
+$GIT = "/bin/git";
+
 # git folder
 $projectroot = "/srv/git";
+$project_maxdepth = 2009;
 
-# display owner
-our $omit_owner = 1; 
+# dont display owner
+our $omit_owner = 1;
 
 # highlight
 $feature{'highlight'}{'default'} = [1];
 $projects_list = $projectroot;
 @stylesheets = ("static/gitweb.css");
 $javascript = "static/gitweb.js";
+
+# catagories
+$projects_list_group_categories = 1;
 ```
 
 <br />
