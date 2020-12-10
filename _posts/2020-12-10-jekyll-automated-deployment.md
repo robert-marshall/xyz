@@ -145,6 +145,12 @@ apt install ruby-full build-essential
 <br />
 
 ```
+$EDITOR .bashrc
+```
+
+<br />
+
+```
 # Install Ruby Gems to ~/.gems
 export GEM_HOME=$HOME/.gems
 export PATH=$GEM_HOME/bin:$PATH
