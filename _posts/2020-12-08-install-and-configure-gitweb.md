@@ -113,7 +113,7 @@ cd  -
 <br />
 
 ```
-git clone https://github.com/kogakure/gitweb-theme /usr/share/gitweb/gitweb-theme
+git clone git@robertmarshall.xyz:/srv/git/gitweb-theme /usr/share/gitweb/gitweb-theme
 cd /usr/share/gitweb/gitweb-theme/
 ./setup -vi --install
 ```
