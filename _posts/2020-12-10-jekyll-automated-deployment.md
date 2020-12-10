@@ -50,6 +50,11 @@ cd /srv/git/
 mkdir myawesomeblog
 cd myawesomeblog
 git init --bare
+```
+
+<br />
+
+```
 $EDITOR hooks/post-receive
 ```
 
