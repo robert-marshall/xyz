@@ -50,7 +50,7 @@ cd /srv/git/
 mkdir myawesomeblog
 cd myawesomeblog
 git init --bare
-nano hooks/post-receive
+$EDITOR hooks/post-receive
 ```
 
 <br />
@@ -96,7 +96,7 @@ chown git:git -R /var/www/myawesomeblog/
 
 ```
 cd /etc/nginx/sites-available/
-nano myawesomeblog
+$EDITOR myawesomeblog
 ```
 
 <br />
