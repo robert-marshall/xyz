@@ -12,7 +12,7 @@ tags: [git, ssh]
 # [server](#server)
 
 ```
-gu - git
+su - git
 ```
 
 <br />
