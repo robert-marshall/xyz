@@ -128,6 +128,11 @@ server {
 ```
 ln -s /etc/nginx/sites-available/myawesomeblog /etc/nginx/sites-enabled/myawesomeblog
 nginx -t
+```
+
+<br />
+
+```
 systemctl restart nginx
 ```
 
