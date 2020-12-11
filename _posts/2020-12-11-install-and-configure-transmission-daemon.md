@@ -2,7 +2,7 @@
 layout: post
 title: "Install And Configure Transmission-Daemon"
 date: 2020-12-11
-tags: [transmission, daemon, bit-torrent, debian]
+tags: [transmission, bit-torrent, debian]
 ---
 
 ##### table of contents
