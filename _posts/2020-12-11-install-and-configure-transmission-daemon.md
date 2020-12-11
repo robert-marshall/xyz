@@ -52,7 +52,7 @@ $EDITOR /etc/transmission-daemon/settings.json
     "encryption": 2,
     "idle-seeding-limit": 0,
     "idle-seeding-limit-enabled": true,
-    "incomplete-dir": "/mnt/drivebane/torrents/incomplete",
+    "incomplete-dir": "/mnt/drivename/torrents/incomplete",
     "incomplete-dir-enabled": true,
     "lpd-enabled": false,
     "max-peers-global": 0,
