@@ -27,6 +27,8 @@ systemctl stop transmission-daemon
 $EDITOR /etc/transmission-daemon/settings.json
 ```
 
+<br />
+
 ```
 {
     "alt-speed-down": 0,
@@ -108,5 +110,3 @@ $EDITOR /etc/transmission-daemon/settings.json
 ```
 systemctl start transmission-daemon
 ```
-
-- [Generating ed25519 SSH Key](https://robertmarshall.xyz/generating-ed25519-ssh-key)
