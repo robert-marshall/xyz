@@ -36,7 +36,7 @@ git init
 
 ```
 git remote -v
-git remote add origin git@myawesomesite.com:/srv/git/xyz
+git remote add origin git@myawesomesite.com:/srv/git/myawesomeproject
 git remote set-url --add --push origin git@myawesomesite.com:/srv/git/myawesomeproject
 git remote set-url --add --push origin git@github.com:username/myawesomeproject.git
 ```
