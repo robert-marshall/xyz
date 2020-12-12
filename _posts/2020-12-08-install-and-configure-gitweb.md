@@ -46,6 +46,7 @@ server {
     fastcgi_param SCRIPT_NAME $uri;
     fastcgi_param GITWEB_CONFIG /etc/gitweb.conf;
     fastcgi_pass  unix:/var/run/fcgiwrap.socket;
+    fastcgi_hide_header X-Powered-By;
   }
 
   location / {
