@@ -21,6 +21,8 @@ wget -O /etc/apt/trusted.gpg.d/php.gpg https://packages.sury.org/php/apt.gpg
 echo "deb https://packages.sury.org/php/ $(lsb_release -sc) main" | sudo tee /etc/apt/sources.list.d/php.list
 ```
 
+<br />
+
 ```
 apt update
 apt upgrade -y
@@ -32,9 +34,14 @@ apt autoremove -y
 ```
 apt install php-fpm php-curl php-cli php-mysql php-gd php-common php-xml php-json php-intl php-pear php-imagick php-dev php-common php-mbstring php-zip php-soap php-bz2 php-bcmath php-gmp -y
 ```
+
+<br />
+
 ```
 cd /etc/php/7.4/
 ```
+
+<br />
 
 ```
 $EDITOR fpm/php.ini
@@ -42,10 +49,14 @@ date.timezone = Europe/London
 memory_limit = 512M
 ```
 
+<br />
+
 ```
 $EDITOR cli/php.ini
 cgi.fix_pathinfo=0
 ```
+
+<br />
 
 ```
 $EDITOR fpm/pool.d/www.conf
@@ -56,10 +67,14 @@ env[TMPDIR] = /tmp
 env[TEMP] = /tmp
 ```
 
+<br />
+
 ```
 systemctl restart php7.4-fpm
 systemctl enable php7.4-fpm
 ```
+
+<br />
 
 ```
 ss -xa | grep php
@@ -72,18 +87,26 @@ systemctl status php7.4-fpm
 apt install mariadb-server -y
 ```
 
+<br />
+
 ```
 systemctl start mariadb
 systemctl enable mariadb
 ```
 
+<br />
+
 ```
 mysql_secure_installation
 ```
 
+<br />
+
 ```
 mysql -u root -p
 ```
+
+<br />
 
 ```
 create database db_name;
@@ -109,6 +132,8 @@ chown -R www-data:www-data /var/www/nextcloud
 cd /etc/nginx/sites-available/
 $EDITOR nextcloud
 ```
+
+<br />
 
 ```
 upstream php-handler {
@@ -217,10 +242,14 @@ server {
 }
 ```
 
+<br />
+
 ```
 ln -s /etc/nginx/sites-available/nextcloud /etc/nginx/sites-enabled/
 nginx -t
 ```
+
+<br />
 
 ```
 systemctl restart nginx
