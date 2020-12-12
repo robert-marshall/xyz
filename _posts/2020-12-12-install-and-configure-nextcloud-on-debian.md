@@ -13,7 +13,7 @@ tags: [php-fpm, mariadb, nextcloud, nginx, debian]
 - [nginx](#nginx)
  
 
-#[php](#php)
+# [php](#php)
 
 ```
 apt -y install lsb-release apt-transport-https ca-certificates
@@ -27,7 +27,7 @@ apt upgrade -y
 apt autoremove -y
 ```
 
-#[php-fpm](#php-fpm)
+# [php-fpm](#php-fpm)
 
 ```
 apt install php-fpm php-curl php-cli php-mysql php-gd php-common php-xml php-json php-intl php-pear php-imagick php-dev php-common php-mbstring php-zip php-soap php-bz2 php-bcmath php-gmp -y
@@ -66,7 +66,7 @@ ss -xa | grep php
 systemctl status php7.4-fpm
 ```
 
-#[mariadb](#mariadb)
+# [mariadb](#mariadb)
 
 ```
 apt install mariadb-server -y
@@ -93,7 +93,7 @@ flush privileges;
 exit;
 ```
 
-#[nextcloud](#nextcloud)
+# [nextcloud](#nextcloud)
 
 ```
 cd /var/www/
@@ -103,7 +103,7 @@ unzip latest.zip
 chown -R www-data:www-data /var/www/nextcloud
 ```
 
-#[nginx](#nginx)
+# [nginx](#nginx)
 
 ```
 cd /etc/nginx/sites-available/
