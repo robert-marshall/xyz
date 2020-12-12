@@ -7,11 +7,11 @@ tags: [php-fpm, mariadb, nextcloud, nginx, debian]
 
 ##### table of contents
 
- - [Install PHP 7.4]
+ - [Install PHP 7.4] (#php)
      - [Install and Configure PHP-FPM]
- - [Install and Configure MariaDB]
- - [Download Nextcloud]
- - [Configure Nginx]
+ - [Install and Configure MariaDB] (#mariadb) 
+ - [Download Nextcloud] (#nextcloud)
+ - [Configure Nginx] (#nginx)
  
 
 ```
