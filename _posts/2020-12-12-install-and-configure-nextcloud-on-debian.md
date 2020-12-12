@@ -26,7 +26,6 @@ echo "deb https://packages.sury.org/php/ $(lsb_release -sc) main" | sudo tee /et
 ```
 apt update
 apt upgrade -y
-apt autoremove -y
 ```
 
 # [php-fpm](#php-fpm)
