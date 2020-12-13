@@ -187,4 +187,4 @@ git push deploy master
 
 ##### Resources
 - [Setting Up A Git Server](https://robertmarshall.xyz/setting-up-a-git-server/)
-- [Pushing To Multiple Git Remotes Simultaneously](https://robertmarshall.xyz/pushing-to-multiple-git-remotes-simultaneously/)
+- [Push To Multiple Git Remotes Simultaneously](https://robertmarshall.xyz/push-to-multiple-git-remotes-simultaneously/)
