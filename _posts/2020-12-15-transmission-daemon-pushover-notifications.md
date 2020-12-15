@@ -7,7 +7,7 @@ tags: [transmission, bit-torrent, pushover]
 
 # tables of contents
 - [pushover](#pushover)
-- [transmission](#tranmission)
+- [transmission](#transmission)
 
 
 # [pushover](#pushover)
@@ -37,6 +37,18 @@ curl -s \
 
 
 # [transmission](#tranmission)
+
+```
+systemctl stop transmission-daemon
+```
+
+<br />
+
+```
+$EDITOR /etc/transmission-daemon/settings.json
+```
+
+<br />
 
 ```
 {
@@ -114,6 +126,11 @@ curl -s \
 }
 ```
 
+<br />
+
+```
+systemctl start transmission-daemon
+```
 
 ##### Resources
 - [Setup Transmission-Daemon](https://robertmarshall.xyz/setup-transmission-daemon/)
