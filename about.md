@@ -7,4 +7,4 @@ comments: false
 ---
 
 
-<a href="../contact">Contact</a>
+<a href="https://robertmarshall.xyz/contact">Contact</a>
