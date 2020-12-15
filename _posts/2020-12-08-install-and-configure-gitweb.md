@@ -2,7 +2,7 @@
 layout: post
 title: "Install And Configure GitWeb"
 date: 2020-12-08
-tags: [git, gitweb, fcgi, nginx, debian] 
+tags: [git, gitweb, fcgi, nginx] 
 ---
 
 ##### table of contents
@@ -118,7 +118,4 @@ git clone https://github.com/kogakure/gitweb-theme /usr/share/gitweb/gitweb-them
 cd /usr/share/gitweb/gitweb-theme/
 ./setup -vi --install
 ```
-
-##### Resources
-- [Setting Up A Git Server](https://robertmarshall.xyz/setting-up-a-git-server)
 

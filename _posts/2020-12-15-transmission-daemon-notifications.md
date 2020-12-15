@@ -137,6 +137,3 @@ $EDITOR /etc/transmission-daemon/settings.json
 systemctl start transmission-daemon
 ```
 
-##### Resources
-- [Setup Transmission-Daemon](https://robertmarshall.xyz/setup-transmission-daemon/)
-

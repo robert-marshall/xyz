@@ -78,7 +78,3 @@ git commit -sam 'descriptive commit message'
 git push origin master
 ```
 
-##### Resources
-- [Generating ed25519 SSH Key](https://robertmarshall.xyz/generating-ed25519-ssh-key)
-
-

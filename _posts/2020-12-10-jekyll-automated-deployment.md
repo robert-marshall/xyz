@@ -2,7 +2,7 @@
 layout: post
 title: "Jekyll Automated Deployment"
 date: 2020-12-10
-tags: [jekyll, ruby, git, nginx, debian]
+tags: [jekyll, ruby, git, nginx]
 ---
 
 ##### table of contents
@@ -185,6 +185,3 @@ git commit -m 'descriptive commit message'
 git push deploy master
 ```
 
-##### Resources
-- [Setting Up A Git Server](https://robertmarshall.xyz/setting-up-a-git-server/)
-- [Push To Multiple Git Remotes Simultaneously](https://robertmarshall.xyz/push-to-multiple-git-remotes-simultaneously/)
