@@ -16,14 +16,20 @@ tags: [transmission, bit-torrent, pushover]
 cd /
 ```
 
+<br />
+
 ```
 mkdir scripts
 cd scripts
 ```
 
+<br />
+
 ```
 $EDITOR transmission.sh
 ```
+
+<br />
 
 ```
 #!/bin/sh
@@ -34,7 +40,6 @@ curl -s \
   -F "title=$TR_TORRENT_NAME" \
   https://api.pushover.net/1/messages.json
 ```
-
 
 # [transmission](#tranmission)
 
