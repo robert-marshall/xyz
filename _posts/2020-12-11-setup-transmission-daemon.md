@@ -53,7 +53,7 @@ $EDITOR /etc/transmission-daemon/settings.json
     "idle-seeding-limit": 0,
     "idle-seeding-limit-enabled": true,
     "incomplete-dir": "/mnt/drivename/t/incomplete",
-    "incomplete-dir-enabled": false,
+    "incomplete-dir-enabled": true,
     "lpd-enabled": false,
     "max-peers-global": 200,
     "message-level": 1,
