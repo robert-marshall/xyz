@@ -6,11 +6,11 @@ tags: [transmission, bit-torrent, pushover]
 ---
 
 # tables of contents
-- [pushover] (#pushover)
-- [transmission] (#tranmission)
+- [pushover](#pushover)
+- [transmission](#tranmission)
 
 
-[pushover] (#pushover)
+[pushover](#pushover)
 
 ```
 cd /
@@ -36,7 +36,7 @@ curl -s \
 ```
 
 
-[transmission] (#tranmission)
+[transmission](#tranmission)
 
 ```
 {
