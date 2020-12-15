@@ -2,7 +2,7 @@
 layout: post
 title: "Generating Elliptic Curve GPG Keys"
 date: 2020-12-14
-tags: [gpg, ed25519, cv25519, ECC, cryptography]
+tags: [gpg, ecc, cryptography]
 ---
 
 ```
