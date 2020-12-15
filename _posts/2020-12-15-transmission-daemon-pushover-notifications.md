@@ -116,4 +116,5 @@ curl -s \
 
 
 ##### Resources
-- [Install And Configure Transmission-Daemon] (https://robertmarshall.xyz/install-and-configure-transmission-daemon/)
+- [Install And Configure Transmission-Daemon](https://robertmarshall.xyz/install-and-configure-transmission-daemon/)
+
