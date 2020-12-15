@@ -42,6 +42,3 @@ git remote set-url --add --push origin git@github.com:username/myawesomeproject
 git remote set-url --add --push origin git@gitlab.com:username/myawesomeproject
 ```
 
-##### Resources
-- [Setting Up A Git Server](https://robertmarshall.xyz/setting-up-a-git-server)
-- [Generating ed25519 SSH Key](https://robertmarshall.xyz/generating-ed25519-ssh-key)

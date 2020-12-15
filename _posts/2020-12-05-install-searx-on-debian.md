@@ -234,5 +234,3 @@ sudo -H service uwsgi restart searx
 
 ##### resources
 - [Step by step installation](https://searx.github.io/searx/admin/installation-searx.html)
-- [uwsgi](https://searx.github.io/searx/admin/installation-uwsgi.html)
-- [Install with nginx](https://searx.github.io/searx/admin/installation-nginx.html)

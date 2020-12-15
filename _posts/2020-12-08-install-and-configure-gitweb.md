@@ -120,6 +120,5 @@ cd /usr/share/gitweb/gitweb-theme/
 ```
 
 ##### Resources
-- [Generating ed25519 SSH Key](https://robertmarshall.xyz/generating-ed25519-ssh-key)
 - [Setting Up A Git Server](https://robertmarshall.xyz/setting-up-a-git-server)
 
