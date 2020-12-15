@@ -6,3 +6,5 @@ excerpt:
 comments: false
 ---
 
+
+<a href="../contact">Contact</a>
