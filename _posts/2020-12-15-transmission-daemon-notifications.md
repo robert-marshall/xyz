@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Transmission-Daemon Pushover Notifications"
+title: "Transmission-Daemon Notifications"
 date: 2020-12-15
 tags: [transmission, bit-torrent, pushover]
 ---
