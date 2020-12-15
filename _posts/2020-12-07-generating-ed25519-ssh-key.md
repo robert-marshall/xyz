@@ -2,7 +2,7 @@
 layout: post
 title: "Generating ed25519 SSH Key"
 date: 2020-12-07
-tags: [ssh]
+tags: [ssh, ed25519]
 ---
 
 ##### table of contents
