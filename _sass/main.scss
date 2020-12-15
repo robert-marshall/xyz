@@ -1,17 +1,16 @@
 // Fonts preferences
-$sans-family: sans-serif;
-$mono-family: monospace;
-$base-font-size: 14px;
+$sans-family: Roboto, sans-serif;
+$mono-family: Consolas, monospace;
+$base-font-size: 16px;
 $medium-font-size: $base-font-size * 0.938;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.85;
 
 // Font weight
 // $light-weight: 300; // uncomment if necessary
-$normal-weight: 200;
+$normal-weight: 400;
 $bold-weight: 700;
 // $black-weight: 900; // uncomment if necessary
-
 //Light Colors
 $text-base-color: #434648;
 $text-link-blue: #003fff;
