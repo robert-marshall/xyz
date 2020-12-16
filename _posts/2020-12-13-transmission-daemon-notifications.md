@@ -6,11 +6,11 @@ tags: [transmissionbt, bittorrent]
 ---
 
 ### Tables of Contents
-- [Configure Notifications Script](#configure-notifications-script)
-- [Configure Transmission](#configure-transmission)
+* [Configure Notifications Script](#configure-notifications-script)
+* [Configure Transmission](#configure-transmission)
 
 
-### 
+### Configure Notifications Script
 
 ```
 mkdir scripts
