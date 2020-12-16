@@ -52,7 +52,7 @@ sub   cv25519/0xAA1E1A86CE6A0068 2020-12-16 [E]
 <br />
 
 ```
-echo B22E4EBEF3CA1BFCF4C5D4D3D1691C20EC0E58C4 >> ~/.gnupg/sshcontrol
+echo B9766D225F73842BC74BF2F8D7E2DCBBA8AD238E >> ~/.gnupg/sshcontrol
 ```
 
 <br />
