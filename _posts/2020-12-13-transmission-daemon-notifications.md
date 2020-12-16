@@ -11,7 +11,6 @@ tags: [transmissionbt, bittorrent]
 
 
 ### Configure Notifications Script
-
 ```
 mkdir scripts
 cd scripts
@@ -36,7 +35,6 @@ curl -s \
 ```
 
 ### Configure Transmission 
-
 ```
 systemctl stop transmission-daemon
 ```
@@ -108,7 +106,7 @@ $EDITOR /etc/transmission-daemon/settings.json
     "rpc-whitelist-enabled": true,
     "scrape-paused-torrents-enabled": true,
     "script-torrent-done-enabled": true,
-    "script-torrent-done-filename": "/scripts/transmission.sh",
+    "script-torrent-done-filename": "/home/user/transmission.sh",
     "seed-queue-enabled": false,
     "seed-queue-size": 10,
     "speed-limit-down": 100,
