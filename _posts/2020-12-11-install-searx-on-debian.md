@@ -5,7 +5,7 @@ date: 2020-12-11
 tags: [searx]
 ---
 
-### table of contents
+### Table of Contents
 * [Searx](#searx)
   * [Install Packages](#install-packages)
   * [Create User](#create-user)
