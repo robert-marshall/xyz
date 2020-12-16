@@ -5,6 +5,12 @@ date: 2020-12-14
 tags: [gpg, ecc, cryptography]
 ---
 
+#### Table of Contents
+* [Generate Master Key](#generate-master-key)
+* [Generate Sub Keys](#generate-sub-keys)
+
+#### Generate Master Key
+
 ```
 gpg --expert --full-generate-key
 ```
@@ -71,25 +77,28 @@ Your selection? 1
 
 ```
 Please specify how long the key should be valid.
-         0 = key does not expire
-      <n>  = key expires in n days
-      <n>w = key expires in n weeks
-      <n>m = key expires in n months
-      <n>y = key expires in n years
+ 0 = key does not expire
+  <n>  = key expires in n days
+  <n>w = key expires in n weeks
+  <n>m = key expires in n months
+  <n>y = key expires in n years
 Key is valid for? (0) 0
 ```
 
 <br />
 
 ```
+Key does not expire at all
 Is this correct? (y/N) y
 ```
 
 <br />
 
 ```
+GnuPG needs to construct a user ID to identify your key.
+
 Real name: John Doe
-Email address: john@myawesomesite.com
+Email address: [john@example.com](mailto:john@example.com)
 ```
 
 <br />
@@ -97,7 +106,7 @@ Email address: john@myawesomesite.com
 ```
 Comment: 
 You selected this USER-ID:
-    "John Doe <john@myawesomesite.com>"
+"John Doe <[john@example.com](mailto:john@example.com)>"
 
 Change (N)ame, (C)omment, (E)mail or (O)kay/(Q)uit? O
 ```
@@ -105,30 +114,56 @@ Change (N)ame, (C)omment, (E)mail or (O)kay/(Q)uit? O
 <br />
 
 ```
-gpg -k
+┌──────────────────────────────────────────────────────┐
+│ Please enter the passphrase to                       │
+│ protect your new key                                 │
+│                                                      │
+│ Passphrase: ________________________________________ |
+│                                                      │
+│       <OK>                <Cancel>                   │
+└──────────────────────────────────────────────────────┘
 ```
 
 <br />
 
 ```
-pub   ed25519/0xA29718477DE222AD 2020-12-10 [C]
-      Key fingerprint = 1CC9 CF3C 56EA B2DA 22D0  8A95 A297 1847 7DE2 22AD
-uid                   [ultimate] John Doe <john@myawesomesite.com>
+We need to generate a lot of random bytes. It is a good idea to perform
+some other action (type on the keyboard, move the mouse, utilize the
+disks) during the prime generation; this gives the random number
+generator a better chance to gain enough entropy.
+gpg: key 0xCFD0817C3ED641EC marked as ultimately trusted
+gpg: revocation certificate stored as '/home/user/.gnupg/openpgp-revocs.d/7A6991F497C82D0D92F57D26CFD0817C3ED641EC.rev'
+public and secret key created and signed.
+
+pub   ed25519/0xCFD0817C3ED641EC 2020-12-16 [C]
+  Key fingerprint = 7A69 91F4 97C8 2D0D 92F5  7D26 CFD0 817C 3ED6 41EC
+uid                              John Doe <[john@example.com](mailto:john@example.com)>
+```
+
+<br />
+
+#### Generate Sub Keys
+
+```
+gpg --expert --edit-key CFD0817C3ED641EC
 ```
 
 <br />
 
 ```
-gpg --expert --edit-key 0xA29718477DE222AD
-```
+gpg (GnuPG) 2.2.12; Copyright (C) 2018 Free Software Foundation, Inc.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
 
-<br />
+Secret key is available.
 
-```
-sec  ed25519/0xA29718477DE222AD
-     created: 2020-12-10  expires: never       usage: C   
-     trust: ultimate      validity: ultimate
-[ultimate] (1). John Doe <john@myawesomesite.com>
+gpg: checking the trustdb
+gpg: marginals needed: 3  completes needed: 1  trust model: pgp
+gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
+sec  ed25519/0xCFD0817C3ED641EC
+ created: 2020-12-16  expires: never       usage: C   
+ trust: ultimate      validity: ultimate
+[ultimate] (1). John Doe <[john@example.com](mailto:john@example.com)>
 
 gpg> addkey
 ```
@@ -182,11 +217,11 @@ Your selection? 1
 
 ```
 Please specify how long the key should be valid.
-         0 = key does not expire
-      <n>  = key expires in n days
-      <n>w = key expires in n weeks
-      <n>m = key expires in n months
-      <n>y = key expires in n years
+ 0 = key does not expire
+  <n>  = key expires in n days
+  <n>w = key expires in n weeks
+  <n>m = key expires in n months
+  <n>y = key expires in n years
 Key is valid for? (0) 0
 ```
 
@@ -194,44 +229,50 @@ Key is valid for? (0) 0
 
 ```
 Is this correct? (y/N) y
+Really create? (y/N) y
 ```
 
 <br />
 
 ```
-Really create? (y/N) 
+┌──────────────────────────────────────────────────────┐
+│ Please enter the passphrase to                       │
+│ protect your new key                                 │
+│                                                      │
+│ Passphrase: ________________________________________ |
+│                                                      │
+│       <OK>                <Cancel>                   │
+└──────────────────────────────────────────────────────┘
 ```
 
 <br />
 
 ```
-sec  ed25519/0xA29718477DE222AD
-     created: 2020-12-10  expires: never       usage: C   
-     trust: ultimate      validity: ultimate
-ssb  ed25519/0x83C57359B2D47835
-     created: 2020-12-10  expires: never       usage: S   
-[ultimate] (1). John Doe <john@myawesomesite.com>
+sec  ed25519/0xCFD0817C3ED641EC
+ created: 2020-12-16  expires: never       usage: C   
+ trust: ultimate      validity: ultimate
+ssb  ed25519/0x7C076343DDCFF935
+ created: 2020-12-16  expires: never       usage: S   
+[ultimate] (1). John Doe <[john@example.com](mailto:john@example.com)>
 
-gpg> 
-```
-
-<br />
-
-```
 gpg> addkey
 ```
 
 <br />
 
 ```
-Possible actions for a ECDSA/EdDSA key: Sign Authenticate 
-Current allowed actions: Sign 
-
-   (S) Toggle the sign capability
-   (A) Toggle the authenticate capability
-   (Q) Finished
-
-Your selection? s
+Please select what kind of key you want:
+   (3) DSA (sign only)
+   (4) RSA (sign only)
+   (5) Elgamal (encrypt only)
+   (6) RSA (encrypt only)
+   (7) DSA (set your own capabilities)
+   (8) RSA (set your own capabilities)
+  (10) ECC (sign only)
+  (11) ECC (set your own capabilities)
+  (12) ECC (encrypt only)
+  (13) Existing key
+Your selection? 11
 ```
 
 <br />
@@ -279,11 +320,11 @@ Your selection? 1
 
 ```
 Please specify how long the key should be valid.
-         0 = key does not expire
-      <n>  = key expires in n days
-      <n>w = key expires in n weeks
-      <n>m = key expires in n months
-      <n>y = key expires in n years
+ 0 = key does not expire
+  <n>  = key expires in n days
+  <n>w = key expires in n weeks
+  <n>m = key expires in n months
+  <n>y = key expires in n years
 Key is valid for? (0) 0
 ```
 
@@ -291,17 +332,34 @@ Key is valid for? (0) 0
 
 ```
 Is this correct? (y/N) y
-```
-
-<br />
-
-```
 Really create? (y/N) y
 ```
 
 <br />
 
 ```
+┌──────────────────────────────────────────────────────┐
+│ Please enter the passphrase to                       │
+│ protect your new key                                 │
+│                                                      │
+│ Passphrase: ________________________________________ |
+│                                                      │
+│       <OK>                <Cancel>                   │
+└──────────────────────────────────────────────────────┘
+```
+
+<br />
+
+```
+sec  ed25519/0xCFD0817C3ED641EC
+ created: 2020-12-16  expires: never       usage: C   
+ trust: ultimate      validity: ultimate
+ssb  ed25519/0x7C076343DDCFF935
+ created: 2020-12-16  expires: never       usage: S   
+ssb  ed25519/0xF68C485481EE8237
+ created: 2020-12-16  expires: never       usage: A   
+[ultimate] (1). John Doe <[john@example.com](mailto:john@example.com)>
+
 gpg> addkey
 ```
 
@@ -341,11 +399,11 @@ Your selection? 1
 
 ```
 Please specify how long the key should be valid.
-         0 = key does not expire
-      <n>  = key expires in n days
-      <n>w = key expires in n weeks
-      <n>m = key expires in n months
-      <n>y = key expires in n years
+ 0 = key does not expire
+  <n>  = key expires in n days
+  <n>w = key expires in n weeks
+  <n>m = key expires in n months
+  <n>y = key expires in n years
 Key is valid for? (0) 0
 ```
 
@@ -353,27 +411,35 @@ Key is valid for? (0) 0
 
 ```
 Is this correct? (y/N) y
-```
-
-<br />
-
-```
 Really create? (y/N) y
 ```
 
 <br />
 
 ```
-sec  ed25519/0xA29718477DE222AD
-     created: 2020-12-10  expires: never       usage: C   
-     trust: ultimate      validity: ultimate
-ssb  ed25519/0x83C57359B2D47835
-     created: 2020-12-10  expires: never       usage: S   
-ssb  ed25519/0x68569F3EE4FC00AC
-     created: 2020-12-10  expires: never       usage: A   
-ssb  cv25519/0xBF2CEE6E46FA86DA
-     created: 2020-12-10  expires: never       usage: E   
-[ultimate] (1). John Doe <john@myawesomesite.com>
+┌──────────────────────────────────────────────────────┐
+│ Please enter the passphrase to                       │
+│ protect your new key                                 │
+│                                                      │
+│ Passphrase: ________________________________________ |
+│                                                      │
+│       <OK>                <Cancel>                   │
+└──────────────────────────────────────────────────────┘
+```
+
+<br />
+
+```
+sec  ed25519/0xCFD0817C3ED641EC
+ created: 2020-12-16  expires: never       usage: C   
+ trust: ultimate      validity: ultimate
+ssb  ed25519/0x7C076343DDCFF935
+ created: 2020-12-16  expires: never       usage: S   
+ssb  ed25519/0xF68C485481EE8237
+ created: 2020-12-16  expires: never       usage: A   
+ssb  cv25519/0xAA1E1A86CE6A0068
+ created: 2020-12-16  expires: never       usage: E   
+[ultimate] (1). John Doe <[john@example.com](mailto:john@example.com)>
 
 gpg> save
 ```
@@ -387,11 +453,14 @@ gpg -k
 <br />
 
 ```
-pub   ed25519/0xA29718477DE222AD 2020-12-10 [C]
-      Key fingerprint = 1CC9 CF3C 56EA B2DA 22D0  8A95 A297 1847 7DE2 22AD
-uid                   [ultimate] John Doe <john@myawesomesite.com>
-sub   ed25519/0x83C57359B2D47835 2020-12-10 [S]
-sub   ed25519/0x68569F3EE4FC00AC 2020-12-10 [A]
-sub   cv25519/0xBF2CEE6E46FA86DA 2020-12-10 [E]
-```
+/home/user/.gnupg/pubring.kbx
 
+*****
+
+pub   ed25519/0xCFD0817C3ED641EC 2020-12-16 [C]
+  Key fingerprint = 7A69 91F4 97C8 2D0D 92F5  7D26 CFD0 817C 3ED6 41EC
+uid                   [ultimate] John Doe <[john@example.com](mailto:john@example.com)>
+sub   ed25519/0x7C076343DDCFF935 2020-12-16 [S]
+sub   ed25519/0xF68C485481EE8237 2020-12-16 [A]
+sub   cv25519/0xAA1E1A86CE6A0068 2020-12-16 [E]
+```
