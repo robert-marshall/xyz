@@ -10,13 +10,13 @@ tags: [searx]
   * [install packages](#install-packages)
   * [create user](#create-user)
   * [install searx & dependencie](#install-searx-&-dependencie)
-  * [configuration](#configuration)
-* [uwsgi](#uwsgi)
-* [nginx](#nginx)
+  * [Searx Configuration](#searx-configuration)
+* [uWSGI](#uwsgi)
+* [Nginx](#nginx)
 
-### searx
+### Searx
 <br />
-### install packages
+### Install Packages
 
 ```
 sudo -H apt-get install -y \
@@ -26,7 +26,7 @@ sudo -H apt-get install -y \
     shellcheck
 ```
 
-### create user
+### Create User
 
 ```
 sudo -H useradd --shell /bin/bash --system \
@@ -38,7 +38,7 @@ sudo -H mkdir "/usr/local/searx"
 sudo -H chown -R "searx:searx" "/usr/local/searx"
 ```
 
-- [install searx & dependencie](#install-searx-&-dependencie)
+### Install Searx & Dependencie
 
 ```
 sudo -H -u searx -i
@@ -68,7 +68,7 @@ cd "/usr/local/searx/searx-src"
 pip install -e .
 ```
 
-- [configuration](#configuration)
+### Configuration
 
 ```
 sudo -H mkdir -p "/etc/searx"
@@ -80,7 +80,7 @@ sudo -H sed -i -e "s/ultrasecretkey/$(openssl rand -hex 16)/g" "/etc/searx/setti
 sudo -H sed -i -e "s/{instance_name}/searx@$(uname -n)/g" "/etc/searx/settings.yml"
 ```
 
-# [uwsgi](#uwsgi)
+### uWSGI
 
 ```
 $EDITOR /etc/uwsgi/apps-available/searx.ini
@@ -187,7 +187,7 @@ sudo -H service uwsgi restart searx
 sudo -H service uwsgi stop    searx
 ```
 
-# [nginx](#nginx)
+### Nginx
 
 ```
 $EDITOR /etc/nginx/sites-available/searx
