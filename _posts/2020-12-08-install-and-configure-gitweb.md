@@ -5,7 +5,7 @@ date: 2020-12-08
 tags: [gitweb, git]
 ---
 
-##### Table of Contents
+#### Table of Contents
 * [Install Dependencies ](#install-dependencies)
 * [Configure Nginx](#configure-nginx)
 * [Configure GitWeb](#configure-gitweb)
@@ -13,13 +13,13 @@ tags: [gitweb, git]
 
 <br />
 
-#### Install Dependencies 
+### Install Dependencies 
 
 ```
 apt install nginx git gitweb fcgiwrap highlight -y
 ```
 
-#### Configure Nginx
+### Configure Nginx
 
 ```
 $EDITOR /etc/nginx/sites-available/gitweb
@@ -69,7 +69,7 @@ nginx -t
 service nginx restart
 ```
 
-#### Configure GitWeb
+### Configure GitWeb
 
 ```
 $EDITOR /etc/gitweb.conf
@@ -105,7 +105,7 @@ systemctl restart fcgiwrap
 systemctl start nginx
 ```
 
-#### Set a Custom Theme
+### Set a Custom Theme
 
 ```
 cd  -
