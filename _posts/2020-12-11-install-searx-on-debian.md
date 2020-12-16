@@ -15,7 +15,6 @@ tags: [searx]
 * [Configure Nginx](#configure-nginx)
 
 ### Searx
-<br />
 ### Install Packages
 
 ```
