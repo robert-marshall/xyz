@@ -6,10 +6,10 @@ tags: [searx]
 ---
 
 ### table of contents
-* [searx](#searx)
-  * [install packages](#install-packages)
-  * [create user](#create-user)
-  * [install searx & dependencie](#install-searx-&-dependencie)
+* [Searx](#searx)
+  * [Install Packages](#install-packages)
+  * [Create User](#create-user)
+  * [Install Searx & Dependencie](#install-searx-&-dependencie)
   * [Searx Configuration](#searx-configuration)
 * [Configure uWSGI](#configure-uwsgi)
 * [Configure Nginx](#configure-nginx)
