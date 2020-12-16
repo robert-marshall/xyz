@@ -11,7 +11,6 @@ tags: [git, jekyll]
 * [One The Computer](#on-the-computer)
 
 ### On The Server
-
 ```
 apt install ruby-full build-essential git nginx
 ```
@@ -98,7 +97,6 @@ chown git:git -R /var/www/myawesomeblog/
 ```
 
 ### Configure Nginx
-
 ```
 cd /etc/nginx/sites-available/
 $EDITOR myawesomeblog
@@ -137,7 +135,6 @@ systemctl restart nginx
 ```
 
 ### On The Computer
-
 ```
 apt install ruby-full build-essential
 ```
@@ -185,6 +182,4 @@ git commit -m 'descriptive commit message'
 git push deploy master
 ```
 
-##### Resources
-- [Setting Up A Git Server](https://robertmarshall.xyz/setting-up-a-git-server/)
-- [Push To Multiple Git Remotes Simultaneously](https://robertmarshall.xyz/push-to-multiple-git-remotes-simultaneously/)
+
