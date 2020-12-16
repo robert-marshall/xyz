@@ -6,11 +6,10 @@ tags: [git]
 ---
 
 ### Table of Contents
-* [One The Server](#on-the-server)
-* [On The Compuer](#on-the-computer)
+* [On The Server](#on-the-server)
+* [On The Computer](#on-the-computer)
 
-### One The Server
-
+### On The Server
 ```
 su - git
 ```
@@ -24,8 +23,7 @@ cd myawesomeproject
 git init --bare
 ```
 
-### On The Compuer
-
+### On The Computer
 ```
 mkdir myawesomeproject
 cd myawesomeproject
