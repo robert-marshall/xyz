@@ -6,8 +6,8 @@ tags: [git]
 ---
 
 ### Table of Contents
-* One The Server(#on-the-server)
-* On The Compuer(#on-the-computer)
+* [One The Server](#on-the-server)
+* [On The Compuer](#on-the-computer)
 
 ### One The Server
 
