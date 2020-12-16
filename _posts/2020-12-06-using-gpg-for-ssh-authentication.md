@@ -36,13 +36,11 @@ gpg --list-keys --with-keygrip
 
 ```
 /home/user/.gnupg/pubring.kbx
-
-*****
-
+-------------------------------
 pub   ed25519/0xCFD0817C3ED641EC 2020-12-16 [C]
   Key fingerprint = 7A69 91F4 97C8 2D0D 92F5  7D26 CFD0 817C 3ED6 41EC
   Keygrip = E6C27E4747CF2AE23FD8B920801A566B82D7BAD4
-uid                   [ultimate] John Doe <[john@example.com](mailto:john@example.com)>
+uid                   [ultimate] John Doe <john@example.com>
 sub   ed25519/0x7C076343DDCFF935 2020-12-16 [S]
   Keygrip = B22E4EBEF3CA1BFCF4C5D4D3D1691C20EC0E58C4
 sub   ed25519/0xF68C485481EE8237 2020-12-16 [A]

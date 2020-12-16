@@ -98,7 +98,7 @@ Is this correct? (y/N) y
 GnuPG needs to construct a user ID to identify your key.
 
 Real name: John Doe
-Email address: [john@example.com](mailto:john@example.com)
+Email address: john@example.com
 ```
 
 <br />
@@ -106,7 +106,7 @@ Email address: [john@example.com](mailto:john@example.com)
 ```
 Comment: 
 You selected this USER-ID:
-"John Doe <[john@example.com](mailto:john@example.com)>"
+John Doe <john@example.com>
 
 Change (N)ame, (C)omment, (E)mail or (O)kay/(Q)uit? O
 ```
@@ -137,7 +137,7 @@ public and secret key created and signed.
 
 pub   ed25519/0xCFD0817C3ED641EC 2020-12-16 [C]
   Key fingerprint = 7A69 91F4 97C8 2D0D 92F5  7D26 CFD0 817C 3ED6 41EC
-uid                              John Doe <[john@example.com](mailto:john@example.com)>
+uid                              John Doe <john@example.com>
 ```
 
 <br />
@@ -163,7 +163,7 @@ gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
 sec  ed25519/0xCFD0817C3ED641EC
  created: 2020-12-16  expires: never       usage: C   
  trust: ultimate      validity: ultimate
-[ultimate] (1). John Doe <[john@example.com](mailto:john@example.com)>
+[ultimate] (1). John Doe <john@example.com>
 
 gpg> addkey
 ```
@@ -253,7 +253,7 @@ sec  ed25519/0xCFD0817C3ED641EC
  trust: ultimate      validity: ultimate
 ssb  ed25519/0x7C076343DDCFF935
  created: 2020-12-16  expires: never       usage: S   
-[ultimate] (1). John Doe <[john@example.com](mailto:john@example.com)>
+[ultimate] (1). John Doe <john@example.com>
 
 gpg> addkey
 ```
@@ -358,7 +358,7 @@ ssb  ed25519/0x7C076343DDCFF935
  created: 2020-12-16  expires: never       usage: S   
 ssb  ed25519/0xF68C485481EE8237
  created: 2020-12-16  expires: never       usage: A   
-[ultimate] (1). John Doe <[john@example.com](mailto:john@example.com)>
+[ultimate] (1). John Doe <john@example.com>
 
 gpg> addkey
 ```
@@ -439,7 +439,7 @@ ssb  ed25519/0xF68C485481EE8237
  created: 2020-12-16  expires: never       usage: A   
 ssb  cv25519/0xAA1E1A86CE6A0068
  created: 2020-12-16  expires: never       usage: E   
-[ultimate] (1). John Doe <[john@example.com](mailto:john@example.com)>
+[ultimate] (1). John Doe <john@example.com>
 
 gpg> save
 ```
@@ -459,7 +459,7 @@ gpg -k
 
 pub   ed25519/0xCFD0817C3ED641EC 2020-12-16 [C]
   Key fingerprint = 7A69 91F4 97C8 2D0D 92F5  7D26 CFD0 817C 3ED6 41EC
-uid                   [ultimate] John Doe <[john@example.com](mailto:john@example.com)>
+uid                   [ultimate] John Doe <john@example.com>
 sub   ed25519/0x7C076343DDCFF935 2020-12-16 [S]
 sub   ed25519/0xF68C485481EE8237 2020-12-16 [A]
 sub   cv25519/0xAA1E1A86CE6A0068 2020-12-16 [E]
