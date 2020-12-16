@@ -10,7 +10,6 @@ tags: [transmissionbt, bittorrent]
 * [Configure Transmissioon](#configure-transmission)
 
 ### Install
-
 ```
 apt install transmission-daemon
 ```
@@ -22,7 +21,6 @@ systemctl stop transmission-daemon
 ```
 
 ### Configure Transmission
-
 ```
 $EDITOR /etc/transmission-daemon/settings.json
 ```
