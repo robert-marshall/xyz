@@ -5,11 +5,11 @@ date: 2020-12-05
 tags: [gpg]
 ---
 
-#### Table of Contents
+### Table of Contents
 * [Generate Master Key](#generate-master-key)
-* [Generate Sub Keys](#generate-sub-keys)
+* [Generating Sub Keys](#generating-sub-keys)
 
-#### Generate Master Key
+### Generate Master Key
 
 ```
 gpg --expert --full-generate-key
@@ -142,7 +142,7 @@ uid                              John Doe <john@example.com>
 
 <br />
 
-#### Generate Sub Keys
+### Generating Sub Keys
 
 ```
 gpg --expert --edit-key CFD0817C3ED641EC
