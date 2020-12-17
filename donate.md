@@ -8,8 +8,16 @@ comments: false
 
 <pre>
 Cryptocurrency:
- - btc: <a href="https://www.blockchain.com/btc/address/37UXbaEgsM5Pq2cqqrittWwfGN5rSKaZVu" target="_blank">37UXbaEgsM5Pq2cqqrittWwfGN5rSKaZVu</a>
- - eth: <a href="https://www.blockchain.com/eth/address/0x62efaf5CDb9543E9CDF382aDB84606E68B81fD00" target="_blank">0x62efaf5CDb9543E9CDF382aDB84606E68B81fD00</a>
+ - btc:  <a href="/assets/img/btc-qrcode.png">(QR code)</a>
+ - eth:  <a href="/assets/img/eth-qrcode.png">(QR code)</a>
+</pre>
+
+<br />
+
+<pre>
+Affiliates:
+ - <a href="https://www.vultr.com/?ref=8731160" target="_blank">Vultr</a>
+ - <a href="https://www.coinbase.com/join/marsha_ogl" target="_blank">Coinbase</a>
 </pre>
 
 <br />
