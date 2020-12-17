@@ -146,7 +146,7 @@ uid                              John Doe <john@myawesomesite.com>
 ### Generating Sub Keys
 
 ```
-gpg --expert --edit-key CFD0817C3ED641EC
+gpg --expert --edit-key DDC02A3277446075
 ```
 
 <br />
