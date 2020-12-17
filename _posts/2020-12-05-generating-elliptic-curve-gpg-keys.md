@@ -98,7 +98,7 @@ Is this correct? (y/N) y
 GnuPG needs to construct a user ID to identify your key.
 
 Real name: John Doe
-Email address: john@example.com
+Email address: john@myawesomesite.com
 ```
 
 <br />
@@ -106,7 +106,7 @@ Email address: john@example.com
 ```
 Comment: 
 You selected this USER-ID:
-John Doe <john@example.com>
+John Doe <john@myawesomesite.com>
 
 Change (N)ame, (C)omment, (E)mail or (O)kay/(Q)uit? O
 ```
@@ -131,13 +131,14 @@ We need to generate a lot of random bytes. It is a good idea to perform
 some other action (type on the keyboard, move the mouse, utilize the
 disks) during the prime generation; this gives the random number
 generator a better chance to gain enough entropy.
-gpg: key 0xCFD0817C3ED641EC marked as ultimately trusted
-gpg: revocation certificate stored as '/home/user/.gnupg/openpgp-revocs.d/7A6991F497C82D0D92F57D26CFD0817C3ED641EC.rev'
+gpg: key 0xDDC02A3277446075 marked as ultimately trusted
+gpg: revocation certificate stored as '/home/john/.gnupg/openpgp-revocs.d/9E1410EBBDF4FF2E38A5E791DDC02A3277446075.rev'
 public and secret key created and signed.
 
-pub   ed25519/0xCFD0817C3ED641EC 2020-12-16 [C]
-  Key fingerprint = 7A69 91F4 97C8 2D0D 92F5  7D26 CFD0 817C 3ED6 41EC
-uid                              John Doe <john@example.com>
+pub   ed25519/0xDDC02A3277446075 2020-12-17 [C]
+      Key fingerprint = 9E14 10EB BDF4 FF2E 38A5  E791 DDC0 2A32 7744 6075
+uid                              John Doe <john@myawesomesite.com>
+
 ```
 
 <br />
@@ -151,19 +152,15 @@ gpg --expert --edit-key CFD0817C3ED641EC
 <br />
 
 ```
-gpg (GnuPG) 2.2.12; Copyright (C) 2018 Free Software Foundation, Inc.
-This is free software: you are free to change and redistribute it.
-There is NO WARRANTY, to the extent permitted by law.
-
 Secret key is available.
 
 gpg: checking the trustdb
 gpg: marginals needed: 3  completes needed: 1  trust model: pgp
-gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
-sec  ed25519/0xCFD0817C3ED641EC
- created: 2020-12-16  expires: never       usage: C   
- trust: ultimate      validity: ultimate
-[ultimate] (1). John Doe <john@example.com>
+gpg: depth: 0  valid:   2  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 2u
+sec  ed25519/0xDDC02A3277446075
+     created: 2020-12-17  expires: never       usage: C   
+     trust: ultimate      validity: ultimate
+[ultimate] (1). John Doe <john@myawesomesite.com>
 
 gpg> addkey
 ```
@@ -248,12 +245,17 @@ Really create? (y/N) y
 <br />
 
 ```
-sec  ed25519/0xCFD0817C3ED641EC
- created: 2020-12-16  expires: never       usage: C   
- trust: ultimate      validity: ultimate
-ssb  ed25519/0x7C076343DDCFF935
- created: 2020-12-16  expires: never       usage: S   
-[ultimate] (1). John Doe <john@example.com>
+We need to generate a lot of random bytes. It is a good idea to perform
+some other action (type on the keyboard, move the mouse, utilize the
+disks) during the prime generation; this gives the random number
+generator a better chance to gain enough entropy.
+
+sec  ed25519/0xDDC02A3277446075
+     created: 2020-12-17  expires: never       usage: C   
+     trust: ultimate      validity: ultimate
+ssb  ed25519/0x747A8AE5E0D62442
+     created: 2020-12-17  expires: never       usage: S   
+[ultimate] (1). John Doe <john@myawesomesite.com>
 
 gpg> addkey
 ```
@@ -351,14 +353,19 @@ Really create? (y/N) y
 <br />
 
 ```
-sec  ed25519/0xCFD0817C3ED641EC
- created: 2020-12-16  expires: never       usage: C   
- trust: ultimate      validity: ultimate
-ssb  ed25519/0x7C076343DDCFF935
- created: 2020-12-16  expires: never       usage: S   
-ssb  ed25519/0xF68C485481EE8237
- created: 2020-12-16  expires: never       usage: A   
-[ultimate] (1). John Doe <john@example.com>
+We need to generate a lot of random bytes. It is a good idea to perform
+some other action (type on the keyboard, move the mouse, utilize the
+disks) during the prime generation; this gives the random number
+generator a better chance to gain enough entropy.
+
+sec  ed25519/0xDDC02A3277446075
+     created: 2020-12-17  expires: never       usage: C   
+     trust: ultimate      validity: ultimate
+ssb  ed25519/0x747A8AE5E0D62442
+     created: 2020-12-17  expires: never       usage: S   
+ssb  ed25519/0x0E37E18B7E50FABE
+     created: 2020-12-17  expires: never       usage: A   
+[ultimate] (1). John Doe <john@myawesomesite.com>
 
 gpg> addkey
 ```
@@ -430,16 +437,21 @@ Really create? (y/N) y
 <br />
 
 ```
-sec  ed25519/0xCFD0817C3ED641EC
- created: 2020-12-16  expires: never       usage: C   
- trust: ultimate      validity: ultimate
-ssb  ed25519/0x7C076343DDCFF935
- created: 2020-12-16  expires: never       usage: S   
-ssb  ed25519/0xF68C485481EE8237
- created: 2020-12-16  expires: never       usage: A   
-ssb  cv25519/0xAA1E1A86CE6A0068
- created: 2020-12-16  expires: never       usage: E   
-[ultimate] (1). John Doe <john@example.com>
+We need to generate a lot of random bytes. It is a good idea to perform
+some other action (type on the keyboard, move the mouse, utilize the
+disks) during the prime generation; this gives the random number
+generator a better chance to gain enough entropy.
+
+sec  ed25519/0xDDC02A3277446075
+     created: 2020-12-17  expires: never       usage: C   
+     trust: ultimate      validity: ultimate
+ssb  ed25519/0x747A8AE5E0D62442
+     created: 2020-12-17  expires: never       usage: S   
+ssb  ed25519/0x0E37E18B7E50FABE
+     created: 2020-12-17  expires: never       usage: A   
+ssb  cv25519/0x554E03ABE05B8D80
+     created: 2020-12-17  expires: never       usage: E   
+[ultimate] (1). John Doe <john@myawesomesite.com>
 
 gpg> save
 ```
@@ -453,14 +465,12 @@ gpg -k
 <br />
 
 ```
-/home/user/.gnupg/pubring.kbx
-
-*****
-
-pub   ed25519/0xCFD0817C3ED641EC 2020-12-16 [C]
-  Key fingerprint = 7A69 91F4 97C8 2D0D 92F5  7D26 CFD0 817C 3ED6 41EC
-uid                   [ultimate] John Doe <john@example.com>
-sub   ed25519/0x7C076343DDCFF935 2020-12-16 [S]
-sub   ed25519/0xF68C485481EE8237 2020-12-16 [A]
-sub   cv25519/0xAA1E1A86CE6A0068 2020-12-16 [E]
+/home/john/.gnupg/pubring.kbx
+-------------------------------
+pub   ed25519/0xDDC02A3277446075 2020-12-17 [C]
+      Key fingerprint = 9E14 10EB BDF4 FF2E 38A5  E791 DDC0 2A32 7744 6075
+uid                   [ultimate] John Doe <john@myawesomesite.com>
+sub   ed25519/0x747A8AE5E0D62442 2020-12-17 [S]
+sub   ed25519/0x0E37E18B7E50FABE 2020-12-17 [A]
+sub   cv25519/0x554E03ABE05B8D80 2020-12-17 [E]
 ```
