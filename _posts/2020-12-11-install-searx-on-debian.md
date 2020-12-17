@@ -9,7 +9,7 @@ tags: [searx]
 * [Searx](#searx)
   * [Install Packages](#install-packages)
   * [Create User](#create-user)
-  * [Install Searx & Dependencie](#install-searx-&-dependencie)
+  * [Install Searx & Dependencies](#install-searx-&-dependencies)
   * [Searx Configuration](#searx-configuration)
 * [Configure uWSGI](#configure-uwsgi)
 * [Configure Nginx](#configure-nginx)
@@ -37,7 +37,7 @@ sudo -H mkdir "/usr/local/searx"
 sudo -H chown -R "searx:searx" "/usr/local/searx"
 ```
 
-### Install Searx & Dependencie
+### Install Searx & Dependencies
 
 ```
 sudo -H -u searx -i
