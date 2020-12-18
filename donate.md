@@ -16,7 +16,6 @@ Cryptocurrency:
 
 <pre>
 Affiliates:
- - <a href="https://www.vultr.com/?ref=8731226-6G" target="_blank">Vultr</a>
  - <a href="https://www.coinbase.com/join/marsha_ogl" target="_blank">Coinbase</a>
 </pre>
 
