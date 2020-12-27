@@ -9,7 +9,6 @@ comments: false
 <pre>
 Cryptocurrency:
  - btc: 37UXbaEgsM5Pq2cqqrittWwfGN5rSKaZVu <a href="/assets/img/btc-qrcode.png">(QR code)</a>
- - eth: 0x62efaf5CDb9543E9CDF382aDB84606E68B81fD00 <a href="/assets/img/eth-qrcode.png">(QR code)</a>
 </pre>
 
 <br />
