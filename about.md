@@ -6,5 +6,5 @@ excerpt:
 comments: false
 ---
 
-- <a href="/contact/">Contact</a> <br />
+- <a href="/contact/">Contact</a>
 - <a href="/donate/">Donate</a>
