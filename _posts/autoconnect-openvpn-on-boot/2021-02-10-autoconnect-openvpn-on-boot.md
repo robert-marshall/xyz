@@ -9,8 +9,6 @@ tags: [openvpn]
 nano /etc/openvpn/login.txt
 ```
 
-<br />
-
 ```
 user
 pass
