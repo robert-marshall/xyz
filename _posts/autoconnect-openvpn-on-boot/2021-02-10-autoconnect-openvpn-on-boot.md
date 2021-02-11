@@ -6,7 +6,7 @@ tags: [openvpn]
 ---
 
 ```
-nano /etc/openvpn/login.txt
+$EDITOR /etc/openvpn/login.txt
 ```
 
 <br />
@@ -20,7 +20,7 @@ pass
 
 ```
 chmod 700 /etc/openvpn/login.txt
-nano /etc/init.d/openvpnauto
+$EDITOR /etc/init.d/openvpnauto
 ```
 
 <br />
