@@ -5,17 +5,25 @@ date: 2021-02-10
 tags: [openvpn]
 ---
 
-
+```
 nano /etc/openvpn/login.txt
+```
+
+<br />
 
 ```
 user
 pass
 ```
 
-chmod 700 /etc/openvpn/login.txt
+<br />
 
+```
+chmod 700 /etc/openvpn/login.txt
 nano /etc/init.d/openvpnauto
+```
+
+<br />
 
 ```
 #!/bin/sh
@@ -130,9 +138,16 @@ status)  do_status;  exit $? ;;
 esac
 ```
 
+<br />
+
+```
 chmod +x /etc/init.d/openvpnauto
 update-rc.d openvpnauto defaults 98
 
-service openvpnauto start
+```
+<br />
 
+```
+service openvpnauto start
 reboot
+```
