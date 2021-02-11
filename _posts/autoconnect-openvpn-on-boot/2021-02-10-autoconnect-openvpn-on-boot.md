@@ -143,7 +143,6 @@ esac
 ```
 chmod +x /etc/init.d/openvpnauto
 update-rc.d openvpnauto defaults 98
-
 ```
 <br />
 
