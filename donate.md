@@ -8,7 +8,7 @@ comments: false
 
 <pre>
 Cryptocurrency:
- - btc: 37UXbaEgsM5Pq2cqqrittWwfGN5rSKaZVu <a href="https://keybase.io/robertmarshall" target="_blank">verify</a>
+ - btc: 37UXbaEgsM5Pq2cqqrittWwfGN5rSKaZVu
 </pre>
 
 <br />
