@@ -13,7 +13,6 @@ author:
   name: Robert Marshall # author name
   bio: >- # tell to the world
       <a href="https://searx.robertmarshall.xyz" target="_blank" rel="noopener">searx</a>, <a href="https://git.robertmarshall.xyz" target="_blank" rel="noopener">git</a>
-  username:  # general username
   github:  # github username
   email:  # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
