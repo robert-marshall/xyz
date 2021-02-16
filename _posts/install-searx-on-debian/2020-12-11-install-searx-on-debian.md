@@ -61,6 +61,7 @@ Python 3.8.1
 pip install -U pip
 pip install -U setuptools
 pip install -U wheel
+pip install -U pyyaml
 
 cd "/usr/local/searx/searx-src"
 
