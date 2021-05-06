@@ -1,6 +1,7 @@
 ---
 title: Music
-permalink: /music/layout: page
+permalink: /music/
+layout: page
 excerpt: 
 comments: false
 ---
