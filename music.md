@@ -50,3 +50,9 @@ Combichrist | We Rule the World, Motherfuckers
 DEF NEON | High Hopes
 Psychostick | Revenge Of The Vengeance
 Speed Injektion | Crept Into Your Thoughts 
+
+
+<br />
+<div align="right">
+<a href="/lastfm_archive.txt" target="blank" title="Last.fm data" >Lastfm Archive  </a>
+</div>
