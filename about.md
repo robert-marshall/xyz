@@ -7,6 +7,7 @@ comments: false
 ---
 
 * <a href="/bookshelf/">Bookshelf</a>
+* <a href="/music/">Music</a>
 <br>
 <br/>
 * <a href="/contact/">Contact</a>
