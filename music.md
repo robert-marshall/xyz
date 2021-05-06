@@ -9,6 +9,7 @@ Recently Listened <br />
 
 <pre>
 - 2021 May
+ZA LU THU - Into the Void, Beyond the Sun
 Alter der Ruine - You Owe Me Blood
 Emilie Autumn - Dead Is The New Alive
 Disturbed - Down With The Sickness
