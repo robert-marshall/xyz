@@ -6,5 +6,8 @@ excerpt:
 comments: false
 ---
 
-- <a href="/contact/">Contact</a>
-- <a href="/donate/">Donate</a>
+* <a href="/bookshelf/">Bookshelf</a>
+<br>
+<br/>
+* <a href="/contact/">Contact</a>
+* <a href="/donate/">Donate</a>
