@@ -11,7 +11,7 @@ Recently Listened <br />
 
 - 2021 May
 
-| track   | artist   |
+| Track   | Artist   |
 ----------|-----------
 King Of The Underworld | C-LEKKTOR
 Breaking | Omega LIthium
