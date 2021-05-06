@@ -8,16 +8,22 @@ comments: false
 
 Recently Listened <br />
 
-<pre>
+
 - 2021 May
-Dissonance - Starstuff (Balducci Remix)
-ZA LU THU - Into the Void, Beyond the Sun
-Alter der Ruine - You Owe Me Blood
-Emilie Autumn - Dead Is The New Alive
-Disturbed - Down With The Sickness
-vidoll - haiiro toiki
-Combichrist - We Rule the World, Motherfuckers
-DEF NEON - High Hopes
-Psychostick - Revenge Of The Vengeance
-Speed Injektion - Crept Into Your Thoughts
-</pre>
+
+| track   | artist   |
+----------|-----------
+King Of The Underworld | C-LEKKTOR
+Breaking | Omega LIthium
+Tomorrow Never Knows | Carla Azar
+Reflection (Disney Cover) | Pacific Nowhere
+Starstuff (Balducci Remix) | Dissonance
+Into the Void, Beyond the Sun | ZA LU THU
+You Owe Me Blood | Alter der Ruine
+Dead Is The New Alive | Emilie Autumn
+Down With The Sickness | Disturbed
+haiiro toiki | vidoll
+We Rule the World, Motherfuckers | Combichrist
+High Hopes | DEF NEON
+Revenge Of The Vengeance | Psychostick
+Crept Into Your Thoughts | Speed Injektion
