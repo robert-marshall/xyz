@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Immortal Bird | The Sycophant
 OHMelectronic | Redshift
 Lacuna Coil | Heaven's a Lie
 Slick Idiot | Make Me Believe
