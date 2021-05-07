@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+OHMelectronic | Redshift
 Lacuna Coil | Heaven's a Lie
 Slick Idiot | Make Me Believe
 ZILCH | HEY MAN SO LONG
