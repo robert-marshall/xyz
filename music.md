@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Slick Idiot | Make Me Believe
 ZILCH | HEY MAN SO LONG
 Die Krupps | Ein Blick zurck im Zorn
 Zā Lä Thü | Serpent Power
