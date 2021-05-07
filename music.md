@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+ZILCH | HEY MAN SO LONG
 Die Krupps | Ein Blick zurck im Zorn
 Zā Lä Thü | Serpent Power
 Dissonance | Poison Kiss (Balducci Mix)
