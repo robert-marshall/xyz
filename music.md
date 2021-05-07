@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Speed Injektion | Apocalypse (Has Arrived)
 Immortal Bird | The Sycophant
 OHMelectronic | Redshift
 Lacuna Coil | Heaven's a Lie
