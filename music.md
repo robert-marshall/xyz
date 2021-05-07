@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Lacuna Coil | Heaven's a Lie
 Slick Idiot | Make Me Believe
 ZILCH | HEY MAN SO LONG
 Die Krupps | Ein Blick zurck im Zorn
