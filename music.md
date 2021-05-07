@@ -6,13 +6,57 @@ excerpt:
 comments: false
 ---
 
-Recently Listened <br />
+#### Recently Listened
+### [May 08, 2021](#may-08-2021)
 
+| Artist | Track |
+|--------|-------|
+Die Krupps | Ein Blick zurck im Zorn
+Zā Lä Thü | Serpent Power
+Dissonance | Poison Kiss (Balducci Mix)
+Ekova | Heavens Dust
 
-- 2021 May
+### [May 07, 2021](#may-07-2021)
 
-| Artist   | Track   |
-----------|-----------
+| Artist | Track |
+|--------|-------|
+CYGNOSIC | What Matters
+Malevolentia | Magnus Frater Spectat Te
+Emilie Autumn | Liar
+Johnathan Young | Skyrim Theme (Dragonborn)
+Omega Lithium | Breaking
+Anders Manga | Blood Lush
+KREATOR | Gods Of Violence
+Iris | Annie Would I Lie To You (Rmx)
+Informatik | Flesh Menageri
+Endanger | No Transmission
+Elegant Machinery | Watching You
+Echo Image | Standing Alone
+Distain! | Sex'n'Cross (Album Version)
+Codename Sugar | I'm Down
+Children Within | Where Are You
+Blind Faith And Envy | Shout
+Assemblage 23 | Disappoint
+The Faint | Glass Danse
+Terminal Coice | Castles In The Sky
+Projekt Pitchfork | Existence (VNV Nation Rmx)
+Say Y | Colours Of My Radio
+Prophets On TV | It's Important
+Pride And Fall | Construct
+Perfidious Words | Visionary (Infekktion Rmx)
+Lavantgarde | Take Me S.I.M.
+Image Transmission | Shoot Your Shot (V 1.1)
+Evils Toy | Angels Only
+Diorama | Device
+Devision | I'm Not Dreaming Of You
+Cosmicity | In Flight (Icon Of Coil Rmx)
+Cetu Javu | Situations
+Blutengel | Navigator
+
+### [May 06, 2021](#may-06-2021)
+
+| Artist | Track |
+|--------|-------|
 The Breath of Life | Shining
 Razor Skyline | Andrea
 The Last Dance | Do you believe in Angels
@@ -50,9 +94,3 @@ Combichrist | We Rule the World, Motherfuckers
 DEF NEON | High Hopes
 Psychostick | Revenge Of The Vengeance
 Speed Injektion | Crept Into Your Thoughts 
-
-
-<br />
-<div align="right">
-<a href="/lastfm_archive.txt" target="blank" title="Last.fm data" >Lastfm Archive  </a>
-</div>
