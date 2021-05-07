@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+The Crystalline Effect | Do Not Open
 Above The Broken | Starships [Nicki Manaj Cover]
 Speed Injektion | Apocalypse (Has Arrived)
 Immortal Bird | The Sycophant
