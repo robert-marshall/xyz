@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Suicide Puppets | Your Love My Hate
 CYGNOSIC | Deadly Affair
 Rhapsody | The Last Winged Unicorn
 spankthenun | Rotting Meat (Twitch)
