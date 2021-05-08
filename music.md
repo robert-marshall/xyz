@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Amon Amarth | Deceiver of the Gods
 The Crystalline Effect | Do Not Open
 Above The Broken | Starships [Nicki Manaj Cover]
 Speed Injektion | Apocalypse (Has Arrived)
