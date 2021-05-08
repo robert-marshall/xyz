@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Zā Lä Thü | Flame of Torture
 Dissonance | Starstuff (Decedent Remix)
 Bad Wolves | Zombie
 Bella Lune | Dead Souls
