@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Andraculoid | Close Your Eyes
 Suicide Puppets | Your Love My Hate
 CYGNOSIC | Deadly Affair
 Rhapsody | The Last Winged Unicorn
