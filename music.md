@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+DEF NEON | Destroy
 X [Japan] | Xclamation
 Andraculoid | Close Your Eyes
 Suicide Puppets | Your Love My Hate
