@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Anders Manga | Burn
 Omega Lithium | Salvation Refused
 Liquid Grey | Dark Days (Club Mix By Evo-lution)
 Zā Lä Thü | Flame of Torture
