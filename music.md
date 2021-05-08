@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Bad Wolves | Zombie
 Bella Lune | Dead Souls
 XANDRIA | Voyage Of The Fallen
 DEF NEON | Destroy
