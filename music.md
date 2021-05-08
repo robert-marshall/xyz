@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+CYGNOSIC | Deadly Affair
 Rhapsody | The Last Winged Unicorn
 spankthenun | Rotting Meat (Twitch)
 Amon Amarth | Deceiver of the Gods
