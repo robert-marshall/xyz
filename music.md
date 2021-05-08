@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+XANDRIA | Voyage Of The Fallen
 DEF NEON | Destroy
 X [Japan] | Xclamation
 Andraculoid | Close Your Eyes
