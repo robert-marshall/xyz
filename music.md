@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+CYGNOSIC | Fear None
 Anders Manga | Burn
 Omega Lithium | Salvation Refused
 Liquid Grey | Dark Days (Club Mix By Evo-lution)
