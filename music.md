@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Rhapsody | The Last Winged Unicorn
 spankthenun | Rotting Meat (Twitch)
 Amon Amarth | Deceiver of the Gods
 The Crystalline Effect | Do Not Open
