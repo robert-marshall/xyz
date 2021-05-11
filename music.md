@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+X [Japan] | Kurenai
 Speed Injektion | Death's Dance
 Transistic Nerve | ever free
 OHMelectronic | Undone
