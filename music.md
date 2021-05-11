@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Judas Priest | The Ripper
 Halestorm | Bad Romance
 Psychostick | Largiloquent Dithyramb
 Acretongue | Estranged
