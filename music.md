@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Within Temptation | Deceiver of Fools
 Omega Lithium | Snow Red
 BETRAYING THE MARTYRS | Tapestry Of Me
 The Insight | One Eyed Jack
