@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+BETRAYING THE MARTYRS | Tapestry Of Me
 The Insight | One Eyed Jack
 Suicide Puppets | Pet Human Head
 spankthenun | Glitch [Stahlschlag's System Overload Mix]
