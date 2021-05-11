@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Omega Lithium | Snow Red
 BETRAYING THE MARTYRS | Tapestry Of Me
 The Insight | One Eyed Jack
 Suicide Puppets | Pet Human Head
@@ -69,7 +70,6 @@ CYGNOSIC | What Matters
 Malevolentia | Magnus Frater Spectat Te
 Emilie Autumn | Liar
 Johnathan Young | Skyrim Theme (Dragonborn)
-Omega Lithium | Breaking
 Anders Manga | Blood Lush
 KREATOR | Gods Of Violence
 Iris | Annie Would I Lie To You (Rmx)
