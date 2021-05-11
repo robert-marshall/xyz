@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+ToxicxEternity | Hellfire (Disney Cover)
 Alter der Ruine | It Speaks
 Dissonance | Poison Kiss (Taipan Mix)
 Judas Priest | The Ripper
