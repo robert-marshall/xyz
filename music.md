@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Zā Lä Thü | Hail Hail Babalon
 CYGNOSIC | Again
 ToxicxEternity | Hellfire (Disney Cover)
 Alter der Ruine | It Speaks
