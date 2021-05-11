@@ -7,6 +7,25 @@ comments: false
 ---
 
 #### Recently Listened
+### [May 11, 2021](#may-11-2021)
+
+| Artist | Track |
+|--------|-------|
+The Insight | One Eyed Jack
+Suicide Puppets | Pet Human Head
+spankthenun | Glitch [Stahlschlag's System Overload Mix]
+CYGNOSIC | Oceans Of Time
+Luna Mortis | The Absence
+Disturbed | Numb
+Voltaire | The Vampire Club
+Immortal Bird | The Sycophant
+Dissonance | Break Myself (Wiccid Mix)
+My Ruin | Ready For Blood
+C-LEKKTOR | War
+Zā Lä Thü | Vril Machine
+Emilie Autumn | Time For Tea
+Omega Lithium | Factor: Misery
+
 ### [May 08, 2021](#may-08-2021)
 
 | Artist | Track |
