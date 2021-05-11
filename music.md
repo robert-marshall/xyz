@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Halestorm | Bad Romance
 Psychostick | Largiloquent Dithyramb
 Acretongue | Estranged
 X [Japan] | Kurenai
