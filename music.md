@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Dissonance | Poison Kiss (Taipan Mix)
 Judas Priest | The Ripper
 Halestorm | Bad Romance
 Psychostick | Largiloquent Dithyramb
