@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Acretongue | Estranged
 X [Japan] | Kurenai
 Speed Injektion | Death's Dance
 Transistic Nerve | ever free
