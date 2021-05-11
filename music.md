@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+spankthenun | Glitch [Depressive Disorder's No Devotion Mix]
 Zā Lä Thü | Hail Hail Babalon
 CYGNOSIC | Again
 ToxicxEternity | Hellfire (Disney Cover)
