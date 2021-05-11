@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Psychostick | Largiloquent Dithyramb
 Acretongue | Estranged
 X [Japan] | Kurenai
 Speed Injektion | Death's Dance
