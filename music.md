@@ -11,6 +11,8 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Speed Injektion | Death's Dance
+Transistic Nerve | ever free
 OHMelectronic | Undone
 Within Temptation | Deceiver of Fools
 Omega Lithium | Snow Red
