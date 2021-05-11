@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Alter der Ruine | It Speaks
 Dissonance | Poison Kiss (Taipan Mix)
 Judas Priest | The Ripper
 Halestorm | Bad Romance
