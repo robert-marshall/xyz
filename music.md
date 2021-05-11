@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+CYGNOSIC | Again
 ToxicxEternity | Hellfire (Disney Cover)
 Alter der Ruine | It Speaks
 Dissonance | Poison Kiss (Taipan Mix)
