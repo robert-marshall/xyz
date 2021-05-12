@@ -12,6 +12,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+C-LEKKTOR | Move On
 The Fifth Alliance | Your Abyss
 
 ### [May 11, 2021](#may-11-2021)
