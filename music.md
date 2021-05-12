@@ -12,6 +12,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Combichrist | Happy Fucking Birthday
 X [Japan] | Drain
 spankthenun | Rotting Meat (Mind Control) Leather Strip Construct
 Emilie Autumn | Take The Pill
