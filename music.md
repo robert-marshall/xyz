@@ -12,6 +12,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Gamma Ray | The Heart Of The Unicorn
 CRACKDOWN | Circus of death ( Human League Cover)
 Sonata Arctica | Life
 Anders Manga | Fortress In My Heart
