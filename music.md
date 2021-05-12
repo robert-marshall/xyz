@@ -12,6 +12,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Emilie Autumn | Take The Pill
 Psychostick | Numbers (I Can Only Count To Four)
 Valium Era | Lautes Rauschen
 Gamma Ray | The Heart Of The Unicorn
