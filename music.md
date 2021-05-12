@@ -12,6 +12,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+spankthenun | Rotting Meat (Mind Control) Leather Strip Construct
 Emilie Autumn | Take The Pill
 Psychostick | Numbers (I Can Only Count To Four)
 Valium Era | Lautes Rauschen
