@@ -12,6 +12,9 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Sonata Arctica | Life
+Anders Manga | Fortress In My Heart
+X [Japan] | Love Replica
 C-LEKKTOR | Move On
 The Fifth Alliance | Your Abyss
 
