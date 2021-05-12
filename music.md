@@ -12,6 +12,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+CRACKDOWN | Circus of death ( Human League Cover)
 Sonata Arctica | Life
 Anders Manga | Fortress In My Heart
 X [Japan] | Love Replica
