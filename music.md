@@ -7,6 +7,13 @@ comments: false
 ---
 
 #### Recently Listened
+
+## [May 12, 2021](#may-12-2021)
+
+| Artist | Track |
+|--------|-------|
+The Fifth Alliance | Your Abyss
+
 ### [May 11, 2021](#may-11-2021)
 
 | Artist | Track |
