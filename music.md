@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Linkin park | Plc.4 Mie HædAmp Live [feat. Zion]
 C-LEKKTOR | Tonight You Are Mine
 Anders Manga | At Dawn they Sleep
 spankthenun | DUST
