@@ -7,6 +7,11 @@ comments: false
 ---
 
 #### Recently Listened
+## [May 13, 2021](#may-13-2021)
+
+| Artist | Track |
+|--------|-------|
+spankthenun | DUST
 
 ## [May 12, 2021](#may-12-2021)
 
