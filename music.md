@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Omega Lithium | Strip Me
 C-LEKKTOR | Animals
 Psychostick | M.I.L.F.
 Centhron | Fenris
