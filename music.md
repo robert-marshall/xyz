@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Astarte | Black Mighty Gods
 Zā Lä Thü | Val-Kree
 DEF NEON | Jed is Dead
 Rob Zombie Vs Nine Inch Nails | Dead Girls Body (Remix)
