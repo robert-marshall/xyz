@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+The Animal in Me | Black Widow [Explicit]
 Dissonance | Wait For The Sky
 Psychostick | Sadface :(
 spankthenun | Beautiful
