@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Suicide Puppets | Blacken Days
 Mega Drive | Video Stalker
 Astarte | Black Mighty Gods
 Zā Lä Thü | Val-Kree
