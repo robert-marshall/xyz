@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Metallica | Die Die Die My Darling
 Death | Misanthrope
 ZILCH | Sold Some Attitude
 Halestorm | Do Not Disturb
