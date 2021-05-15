@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+spankthenun | Beautiful
 Nightwish | Nemo
 OHMelectronic | Decline
 Sepultura | Chaos B.C. (Matt Castillo RMX)
