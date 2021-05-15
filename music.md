@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Dope | You Spin Me Round
 Suicide Puppets | Blacken Days
 Mega Drive | Video Stalker
 Astarte | Black Mighty Gods
