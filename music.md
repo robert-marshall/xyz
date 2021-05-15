@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Alter der Ruine | Snake Oil Salesman
 Anopheli | Trade
 The Pretty Reckless | Death By Rock N Rolll Role Play
 
