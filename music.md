@@ -11,6 +11,9 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Death | Misanthrope
+ZILCH | Sold Some Attitude
+Halestorm | Do Not Disturb
 Alter der Ruine | Snake Oil Salesman
 Anopheli | Trade
 The Pretty Reckless | Death By Rock N Rolll Role Play
