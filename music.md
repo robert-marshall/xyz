@@ -11,6 +11,8 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+X [Japan] | Joker [Live]
+Emilie Autumn | Let The Record Show
 Holy Moses | Diabolic Plot
 Anders Manga | X's & the Eyes
 When Cities Sleep | Pound The Alarm [Nicki Manaj Cover]
