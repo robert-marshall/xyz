@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+DEF NEON | Winter
 Metallica | Die Die Die My Darling
 Death | Misanthrope
 ZILCH | Sold Some Attitude
