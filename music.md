@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+When Cities Sleep | Pound The Alarm [Nicki Manaj Cover]
 Alter der Ruine | Boozetooth
 The Animal in Me | Black Widow [Explicit]
 Dissonance | Wait For The Sky
