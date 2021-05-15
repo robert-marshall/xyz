@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Centhron | Fenris
 Hollow Like Me | Counting Stars (feat. Christine Scott) [One Republic Cover]
 DEF NEON | Winter
 Metallica | Die Die Die My Darling
