@@ -7,6 +7,13 @@ comments: false
 ---
 
 #### Recently Listened
+## [May 15, 2021](#may-15-2021)
+
+| Artist | Track |
+|--------|-------|
+Anopheli | Trade
+The Pretty Reckless | Death By Rock N Rolll Role Play
+
 ## [May 13, 2021](#may-13-2021)
 
 | Artist | Track |
