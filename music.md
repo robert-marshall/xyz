@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+spankthenun | VIRUS [KMFDM Cover]
 Omega Lithium | Kinetik
 Dope | You Spin Me Round
 Suicide Puppets | Blacken Days
