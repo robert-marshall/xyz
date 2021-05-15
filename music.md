@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Rob Zombie Vs Nine Inch Nails | Dead Girls Body (Remix)
 OHMelectronic | Disarmed
 X [Japan] | Joker [Live]
 Emilie Autumn | Let The Record Show
