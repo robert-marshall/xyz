@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Alter der Ruine | Boozetooth
 The Animal in Me | Black Widow [Explicit]
 Dissonance | Wait For The Sky
 Psychostick | Sadface :(
