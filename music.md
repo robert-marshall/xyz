@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Psychostick | M.I.L.F.
 Centhron | Fenris
 Hollow Like Me | Counting Stars (feat. Christine Scott) [One Republic Cover]
 DEF NEON | Winter
