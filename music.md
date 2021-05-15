@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Holy Moses | Diabolic Plot
 Anders Manga | X's & the Eyes
 When Cities Sleep | Pound The Alarm [Nicki Manaj Cover]
 Alter der Ruine | Boozetooth
