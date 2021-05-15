@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+DEF NEON | Jed is Dead
 Rob Zombie Vs Nine Inch Nails | Dead Girls Body (Remix)
 OHMelectronic | Disarmed
 X [Japan] | Joker [Live]
