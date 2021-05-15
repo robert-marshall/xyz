@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+OHMelectronic | Disarmed
 X [Japan] | Joker [Live]
 Emilie Autumn | Let The Record Show
 Holy Moses | Diabolic Plot
