@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Omega Lithium | Kinetik
 Dope | You Spin Me Round
 Suicide Puppets | Blacken Days
 Mega Drive | Video Stalker
