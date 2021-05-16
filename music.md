@@ -7,6 +7,13 @@ comments: false
 ---
 
 #### Recently Listened
+## [May 16, 2021](#may-16-2021)
+
+| Artist | Track |
+|--------|-------|
+Omega Lithium | Time of Change
+Psychostick | The Hunger Within
+
 ## [May 15, 2021](#may-15-2021)
 
 | Artist | Track |
