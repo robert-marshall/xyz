@@ -7,7 +7,36 @@ comments: false
 ---
 
 #### Recently Listened
-## [May 16, 2021](#may-16-2021)
+## [June, 2021](#may-2021)
+
+| Artist | Track |
+|--------|-------|
+Gasr | Heavy (Failed States Disco mix By Gasr) 
+Stahlnebel vs Black Selket | Deadly Perception
+XPQ 21 | Poisonous Words
+Nine Inch Nails | Only (Richard-X remix)
+Motor | Bleep 1 (Extended version)
+Combichrist | This Is My Rifle
+Soman | Divine (Noisuf-X remix)
+Xp8 | Wet Dream (Delobbo remix)
+Kraftwerk | Aerodynamik (Alex Gopher And Etienne De Crecy Dynamik mix)
+State Of The Union | Radioman (Club mix)
+Miss Construction | Totes Fleisch
+Sebastian Komor | Electro Body Music (Freak edit)
+Muscle And Hate | Let Your Body Learn
+P.A.L | Geloebnis
+Patenbrigade: Wolff | Turmdrehkran (PVD Club Mix)
+Xmh | Global Killer (RX-78 remix by NG-Pro)
+Hocico | Ruptura (Apoptygma vs. Drugwar remix)
+The Chemical Brothers | Believe (Feat Kele Okereke)
+And One | Computerstar
+Darude | Music (Bostik Radio Edit)
+Miss Construction | Miss Construction Theme
+Datsuns | Lady
+Omega Lithium | Angel's Holocaust
+Rise Against | Anyway You Want It [Journey]
+
+## [May, 2021](#may-2021)
 
 | Artist | Track |
 |--------|-------|
@@ -15,11 +44,6 @@ C-LEKKTOR | Out Of My Way
 A7IE | Neuroleptics
 Omega Lithium | Time of Change
 Psychostick | The Hunger Within
-
-## [May 15, 2021](#may-15-2021)
-
-| Artist | Track |
-|--------|-------|
 spankthenun | VIRUS [KMFDM Cover]
 Omega Lithium | Kinetik
 Dope | You Spin Me Round
@@ -56,22 +80,12 @@ Halestorm | Do Not Disturb
 Alter der Ruine | Snake Oil Salesman
 Anopheli | Trade
 The Pretty Reckless | Death By Rock N Rolll Role Play
-
-## [May 13, 2021](#may-13-2021)
-
-| Artist | Track |
-|--------|-------|
 ZILCH | FUCTRACK #6
 CYGNOSIC | Free
 Linkin park | Plc.4 Mie HædAmp Live [feat. Zion]
 C-LEKKTOR | Tonight You Are Mine
 Anders Manga | At Dawn they Sleep
 spankthenun | DUST
-
-## [May 12, 2021](#may-12-2021)
-
-| Artist | Track |
-|--------|-------|
 Amduscia | False Freedom
 Combichrist | Happy Fucking Birthday
 X [Japan] | Drain
@@ -86,11 +100,6 @@ Anders Manga | Fortress In My Heart
 X [Japan] | Love Replica
 C-LEKKTOR | Move On
 The Fifth Alliance | Your Abyss
-
-### [May 11, 2021](#may-11-2021)
-
-| Artist | Track |
-|--------|-------|
 Omega Lithium | Nebula
 Born of Osiris | Follow The Signs
 spankthenun | Glitch [Depressive Disorder's No Devotion Mix]
@@ -124,11 +133,6 @@ C-LEKKTOR | War
 Zā Lä Thü | Vril Machine
 Emilie Autumn | Time For Tea
 Omega Lithium | Factor: Misery
-
-### [May 08, 2021](#may-08-2021)
-
-| Artist | Track |
-|--------|-------|
 CYGNOSIC | Fear None
 Anders Manga | Burn
 Omega Lithium | Salvation Refused
@@ -158,11 +162,6 @@ Die Krupps | Ein Blick zurck im Zorn
 Zā Lä Thü | Serpent Power
 Dissonance | Poison Kiss (Balducci Mix)
 Ekova | Heavens Dust
-
-### [May 07, 2021](#may-07-2021)
-
-| Artist | Track |
-|--------|-------|
 CYGNOSIC | What Matters
 Malevolentia | Magnus Frater Spectat Te
 Emilie Autumn | Liar
@@ -194,11 +193,6 @@ Devision | I'm Not Dreaming Of You
 Cosmicity | In Flight (Icon Of Coil Rmx)
 Cetu Javu | Situations
 Blutengel | Navigator
-
-### [May 06, 2021](#may-06-2021)
-
-| Artist | Track |
-|--------|-------|
 The Breath of Life | Shining
 Razor Skyline | Andrea
 The Last Dance | Do you believe in Angels
