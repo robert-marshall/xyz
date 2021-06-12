@@ -11,6 +11,22 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+The Hacker | Radiation
+Ascii Disko | Strassen
+Vox Celesta | Ein Freund
+Weltraumorgel | Response
+Rammstein | Amerika
+Phraze | Cycle Of Time
+Kontinuum | I Believe
+State Of The Union | Makina Mata
+Mindless Faith | Momentum
+Fraction | The Living And The Dead
+Depeche Mode | World In My Eyes
+Real Life | Kamikaze
+The Azoic | Illuminate
+NebulaH | Portrait Of A Soul
+Darude | Music
+De Vision - Drifting Sideways
 Techno Bert | Neue Dimensionen
 Apoptygma Berzerk | Soul Taker (Berzerkdancer remix)
 Combichrist | The Kill
