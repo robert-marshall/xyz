@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+The Chemical Brothers | Hey Boy Hey Girl
 Neuroticfish | Wake Me Up (Extended-Dance)
 Rotersand | Rushing (Club Recut)
 Imperative Reaction | Product
