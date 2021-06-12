@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Led Manville | Led Intro
 Spetsnaz | Nothing But Black
 Gasr | Heavy (Failed States Disco mix By Gasr) 
 Stahlnebel vs Black Selket | Deadly Perception
