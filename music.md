@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Spetsnaz | Nothing But Black
 Gasr | Heavy (Failed States Disco mix By Gasr) 
 Stahlnebel vs Black Selket | Deadly Perception
 XPQ 21 | Poisonous Words
