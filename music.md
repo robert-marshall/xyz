@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Techno Bert | Neue Dimensionen
 Apoptygma Berzerk | Soul Taker (Berzerkdancer remix)
 Combichrist | The Kill
 Readjust | Hard To Die
