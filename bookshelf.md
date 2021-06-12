@@ -610,4 +610,39 @@ comments: false
 |A Portrait of the Artist as a Young Man                                                                                                                                                                |James Joyce                |
 |The Great Gatsby                                                                                                                                                                                       |F. Scott Fitzgerald        |
 |Ulysses                                                                                                                                                                                                |James Joyce                |
-
+Leviathan | Thomas Hobbes
+A Dream of Enlightenment, Chapter Two | Adolph Gottlieb
+Introduction to Leviathan | Michael Oakeshott
+Two Discourses on Government | John Locke
+Persian Letters | The Second Baron de Montesquieu
+The Spirit of Laws | The Second Baron de Montesquieu
+Vindication of Natural Society | Edmund Burke
+A Philosophical Enquiry into the Sublime and the Beautiful | Edmund Burke
+Speech to the Bristol Electors | Edmund Burke
+Reflections on the Revolution in France | Edmund Burke
+The Great Debate: Edmund Burke, Thomas Paine, and the Birth of Right and Left | Yuval Levin
+The Roads to Modernity: The British, French and American Enlightenments | Gertrude Himmelfarb
+The Rights of Man | Thomas Paine
+On Democracy in America | Alexis de Tocqueville
+Sybil: or, the Two Nations | Benjamin Disraeli
+The Middle Way | Harold Macmillan
+The Case for Conservatism | Quintin Hogg
+For We Shall Prejudice Nothing: Middle Way Conservatism and the Defence of Inequality | Dean Blackburn
+The Conservative Mind | Russel Kirk
+The Constitution of Liberty | Friedrich Hayek
+The Conscience of a Conservative | Barry Goldwater
+‘Rationalism in Politics’ | Michael Oakeshott
+On Being Conservative | Michael Oakeshott
+Concept of Ideology | Corey, D. Oakeshott’s
+The Renewal of Britain (Speech) | Margaret Thatcher
+Ideologies Of Conservatism: Conservative Political Ideas in the Twentieth Century | Ewen Henry Harvey Green
+Thatcher (Reputations) | Ewen Henry Harvey Green
+The Meaning of Conservatism | Roger Scruton
+A Political Philosophy | Roger Scruton
+How to be a Conservative | Roger Scruton
+Roger Scruton: The Philosopher on Dover Beach | Mark Dooley
+The Political Thought of the Conservative Party since 1945 | Kevin Hickson
+Social Responsibility: The Big Idea for Britain’s Future | David Cameron
+The Tories: From Winston Churchill to David Cameron | Timothy Heppell
+The Conservative Party: From Thatcher to Cameron | Tim Bale
+The Future of Conservatism: Values Revisited | David Davis

@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Modulate | Buzzsaw
 Zelle 40 | Kapitulation (English Swans remix)
 Led Manville | Led Intro
 Spetsnaz | Nothing But Black
