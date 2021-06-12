@@ -11,6 +11,10 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Apoptygma Berzerk | Soul Taker (Berzerkdancer remix)
+Combichrist | The Kill
+Readjust | Hard To Die
+Readjust | Feindfahrt 2 (Bastardized by Stahlnebel vs Black Selket)
 The Chemical Brothers | Hey Boy Hey Girl
 Neuroticfish | Wake Me Up (Extended-Dance)
 Rotersand | Rushing (Club Recut)
