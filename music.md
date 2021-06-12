@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Neuroticfish | Wake Me Up (Extended-Dance)
 Rotersand | Rushing (Club Recut)
 Imperative Reaction | Product
 Modulate | Buzzsaw
