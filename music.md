@@ -26,7 +26,7 @@ Real Life | Kamikaze
 The Azoic | Illuminate
 NebulaH | Portrait Of A Soul
 Darude | Music
-De Vision - Drifting Sideways
+De Vision | Drifting Sideways
 Techno Bert | Neue Dimensionen
 Apoptygma Berzerk | Soul Taker (Berzerkdancer remix)
 Combichrist | The Kill
