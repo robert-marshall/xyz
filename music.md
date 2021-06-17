@@ -11,6 +11,26 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Sielwolf | Neue Fleisch
+Gae Bolg | Pandemonium
+Rinneradio | Fennoskandia
+Standeg | Revol Vex
+Rabia Sorda | Cantos De Violencia
+Prometheus Burning | Some Things Are Meant To Stay Broken [Hypofixx Remix]
+Radio Murmansk | Phasing Lights
+Pimentola | III
+Revolting Cocks | Wizard Of Sextown
+Pan Sonic | Mutator
+Fields of the Nephilim | At the Gates of Silent Memory
+Painbastard | Blood And Honour
+Orplid | Amils Abendgebet
+My Life With Thrill Kill Kult | Psychik Yoga
+Ministry | Nursing Home
+Mentallo & The Fixer | Brief But Violent Illness (Tripping Over The Beeding Edge)
+Lars Falk | Hello Hello
+Itä|Saksa | Plastic Front
+The Invincible Spirit | Push! (Original 1986)
+Foetus | Mandelay
 The Hacker | Radiation
 Ascii Disko | Strassen
 Vox Celesta | Ein Freund
