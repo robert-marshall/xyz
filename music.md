@@ -28,7 +28,7 @@ My Life With Thrill Kill Kult | Psychik Yoga
 Ministry | Nursing Home
 Mentallo & The Fixer | Brief But Violent Illness (Tripping Over The Beeding Edge)
 Lars Falk | Hello Hello
-Itä|Saksa | Plastic Front
+Itä-Saksa | Plastic Front
 The Invincible Spirit | Push! (Original 1986)
 Foetus | Mandelay
 The Hacker | Radiation
