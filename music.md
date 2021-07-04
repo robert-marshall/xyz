@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Ayria | The Gun Song (Angelspit Mix)
 Armageddon Dildos | In My Mind (Like a Knife...)
 Combichrist | Electrohead
 Unter Null | I Can't Be The One (De_Tot_Cor Mix)
