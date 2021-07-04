@@ -7,7 +7,28 @@ comments: false
 ---
 
 #### Recently Listened
-## [June, 2021](#may-2021)
+## [July, 2021](#july-2021)
+
+| Artist | Track |
+|--------|-------|
+Armageddon Dildos | In My Mind (Like a Knife...)
+Combichrist | Electrohead
+Unter Null | I Can't Be The One (De_Tot_Cor Mix)
+Vnv Nation | Chrome (Soman Rx Longer)
+Igor S | Boomerang (Igor S mix)
+Head-Less | Ship Of Agony (Extended)
+Roppongi Inc. Project | RiPerbahn
+Northborne | Trucks (v.1.1)
+Apoptygma Berzerk | Love Never Dies (Part 1)
+Ravelab | Push (VNV Nation Rmx)
+Das Ich | Kannibale (RX Patenbrigade: Wolff)
+Noisuf-X | Noise & Bouncing
+Icon Of Coil | Existence In Progress
+Rotersand | If You Don't Stop It...
+Nachtmahr | Einhundertacht
+Kloq | So Long Cylon
+
+## [June, 2021](#june-2021)
 
 | Artist | Track |
 |--------|-------|
