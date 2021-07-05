@@ -11,6 +11,8 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Sepultura | Firestarter (Prodigy Cover)
+Alter der Ruine | Lady Jamz Part 1
 Ayria | The Gun Song (Angelspit Mix)
 Armageddon Dildos | In My Mind (Like a Knife...)
 Combichrist | Electrohead
