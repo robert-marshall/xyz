@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Psychostick | Keys
 CRACKDOWN | Russia do you hate me
 Jonathan Young & Caleb Hyles | SAVAGES (Disney Cover)
 Sepultura | Firestarter (Prodigy Cover)
