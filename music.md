@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+ZILCH | Sold Some Attitude
 Psychostick | Keys
 CRACKDOWN | Russia do you hate me
 Jonathan Young & Caleb Hyles | SAVAGES (Disney Cover)
