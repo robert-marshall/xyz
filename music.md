@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Kieran Somerville | Cyber-flunk 2020
 ZILCH | Sold Some Attitude
 Psychostick | Keys
 CRACKDOWN | Russia do you hate me
