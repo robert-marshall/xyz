@@ -11,8 +11,8 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+CRACKDOWN | Blue rats ( Coil Cover )
 Kieran Somerville | Cyber-flunk 2020
-ZILCH | Sold Some Attitude
 Psychostick | Keys
 CRACKDOWN | Russia do you hate me
 Jonathan Young & Caleb Hyles | SAVAGES (Disney Cover)
