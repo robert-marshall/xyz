@@ -11,6 +11,9 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Robin Williams | The Grim Rapper
+Suicide Puppets | Your Love My Hate
+Dope | You Spin Me Round
 CRACKDOWN | Blue rats ( Coil Cover )
 Kieran Somerville | Cyber-flunk 2020
 Psychostick | Keys
