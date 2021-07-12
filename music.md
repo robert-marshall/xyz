@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+Fall Out Boy | (Coffee's For Closers)
 BILLY IDOL | CRADLE OF LOVE
 Robin Williams | The Grim Rapper
 Suicide Puppets | Your Love My Hate
