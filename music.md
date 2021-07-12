@@ -11,6 +11,8 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+No Doubt | Spiderwebs
+Didn't Leave Nobody but the Baby | O Brother, Where Art Thou?
 PSY-TRANCE Billie Eilish, Khalid | lovely (Meis & Outcast Remix)
 Goodshirt | Buck It Up
 Fall Out Boy | (Coffee's For Closers)
