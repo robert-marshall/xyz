@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+PSY-TRANCE Billie Eilish, Khalid | lovely (Meis & Outcast Remix)
 Goodshirt | Buck It Up
 Fall Out Boy | (Coffee's For Closers)
 BILLY IDOL | CRADLE OF LOVE
