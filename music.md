@@ -11,6 +11,7 @@ comments: false
 
 | Artist | Track |
 |--------|-------|
+BILLY IDOL | CRADLE OF LOVE
 Robin Williams | The Grim Rapper
 Suicide Puppets | Your Love My Hate
 Dope | You Spin Me Round
